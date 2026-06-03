@@ -1,3 +1,1030 @@
-# Digital Badges in Education — DeLello
+Note: This is the last authors' copy prior to publishing.  The final, definitive version of this article is inpress in *International Journal of Web-Based Learning and Teaching Technologies, 13* (4).
 
-.  T h e f i na l , de f i n i t i v e v er si o n of  t hi s a r t i cl e i s i n - pr es s i n  I n t er n at i ona l  Jou r nal  o f  W eb - Based L ear n i ng  and Teac hi ng  Tech nol o gi e s, 13 ( 4 \ . G a m if yin g E d u c ation :  M otivat ion  an d  the Im p lem e n tat ion  of  Digital B ad ge s f or  u se  in  Hi g h e r  E d u c a tion the ir br a v e r y  a nd goo d c o nduc t (M c Af e e , 2015\ . Ev e n to da y , the m il it a r y c o nti nue s  to w e a r  c re s t s o n the ir uni f o r m s sy m b oli z ing v igi la nc e a nd  v a lo r.  B a dge s a re a l s o  u se d to c e rti f y know le dge  a nd l e a rning ( H a la v a i s , 2012\ .  In f a c t , t he  fir st B oy S c o ut ba dge s , m a de  o f c lo th  w it h  a n e m br o ide re d de s ign, w e re  pr o duc e d in 1911 t o  s ign if y  e v ide nc e  o f  pro f ic ie n c y o r m e rit i n a pa rtic u la r a r e a li ke a gri c ult ure (W il l s , 2009\ . T o da y , the re  a re  o v e r a  hundr e d ba dg e s  in v a rio us a re a s  a nd  s k il l l e v e l s .  T h e s e  v i s ua l r e pre se nt a ti o ns o f  c re de nt ia l s a re s y m b oli c a nd h ighl ight the qua li f i c a t io ns a nd  c ha r a c te ri s ti c s  o f  tho se w e a ring the m . D uring the f ir s t h a l f  o f  th e  tw e nti e th ce ntur y , the  u se  o f  re w a rds  be c a m e  e v i de nt i n th e f i e ld o f  e du c a t io n.  B a s e d  upo n  o pe ra nt l e a rning th e o r y , the  use  o f  re w a rds  suc h a s c a nd y ,  s t ic k e r s , ba dg e s , a nd gr a de s  ha v e  b e e n u se d to  e x trins i c a ll y m oti v a te s tud e nts .  T h e  pre m is e  w a s to  pr om ote  a  de s ir e d be h a v io r.  A nd, a c c o rding to be ha v io ris t B . F .  S kinne r ( 1950 \ the use o f re w a rds s tre ngth e n s , e s pe c iall y if  the  indi v idua l  f ind s m e rit i n the inc e n ti v e s y s te m . S c ho la rs ha v e s ugge ste d  tha t re w a rds  m a y  a ls o m o ti v a te  indi v idua l s to  pur s u e  m o re c ha l le nging  tas k s .  F o r e xa m ple , o nli ne  ga m ing i s gro w ing a t a  ra pid pac e .  P a rti c ip a nt s  e a rn  re w a rds s uc h  a s ba dg e s ,  po int s , a nd  a c h ie v e m e nts f o r a c c om pli s hing  a  pa rt ic ul a r le v e l i n th e ga m e .  B e g y  a nd C o ns a lv o  (201 1 \ ga m e s  a r e  de signe d to  c o nti nua ll y  re inf o rc e the brilli a nt  a t t h i s ... e (pa ra .  8\ A l s o , K a pp (2 012\ n o te d tha t t h e s e  r e w a rds  p rov id e  s o c ia l  c a p it a l a nd  bra gging right s .  2 A ddit io na ll y , S uh,  W a gne r, a nd Liu (2016\ re po rte d  that ga m if ica ti o n e nha nc e d u se r  ps y c ho l o gic a l nee d s sa ti sf a c ti o n. R e c e nt l y , c om p o ne nts f r om  ga m ing a re  be ing i m ple m e nte d  int o  e duc a ti o n in t he f o r m o f digi ta l b a dg e s (F o s te r, 201 3 \ .  - e na bl e d to ke n s  o f  a c c o m pli s hm e nt t ha t c o nta in  s p e c i f i c c laim s  a nd e v ide n c e  a bo ut l e a rning a nd  c he nk e , W il li s ,  & H i c ke y , 2015, p. 451\ . F urthe r m ore , t he  pra c ti c e  o f  c re a ti ng, r e w a rding, a nd  s ha ring dig it a l  ba dge s  h a s e m e rge d a s a m e a ns  to m o ti v a te  a nd r e w a rd s tude nt l e a rning. D i git a l b a dge s m a y ide nti f y r e  c r e de nt ial s that a c tuall y m e a s ure s ki ll s , c o m pe te nc ies, a nd  a c hi e v e m e nts  o bta ine d  i n the  c lass ro om ,  w orkf o r c e ,  a nd c o m m unit y (U S D E, 2011\ . Re late d  L ite r a tur e T h e M a c A rthur  F o unda ti o n (20 17 c re d e nti a li ng  m e c ha ni s m  tha t i s  ho use d  a nd m a na ge d o nli ne . B a dge s a re  d e s ign e d to m a ke v is ibl e a nd v a li d a te lea rn ing i n bo th f o r m a l a nd inf o r m a l s e t ti ng s , a nd ho ld  the  po te nti a l t o  he lp  e i s  a  r e w a rd  Otto  & H i c ke y , 2014\ . A c c o rding to  D e l e ll o  a nd  Mc W ho rte r ( 2015\ , a digi ta l b a dge i s  c o m p ris e d o f  m ic r o - c re de nti a l s  in c lu ding t he  purp o s e  o f the  ba dg e , th e  da te  th e  b a dge w a s a w a rde d,  w h o  is s u e d t h e  ba dg e , a nd w h o e a rn e d the  b a dg e .  D igi t a l b a dge s a re  v e ri f iable ,  s t a c k a bl e , a nd po rta b le f o r s ha ring a c ro ss s o c i a l m e dia s it e s (M o z il l a , 2016\ .  In a ddit i o n , the  a bil it y  t o  dis pl a y digi ta l b a dg e s m a y , &  H i c k e y , 2013, p a ra . 8\ 3 A c c o rding to  T w a rn o it e  (201 5\ % o f  the M il le n nia l  G e n e ra ti o n (de f in e d  a s  a du lt s  18 - 34\ w il l be  pa rt o f  the  glo ba l w orkf o rc e b y  2025 .  A re c e n t s tud y b y  the  U niv e rs it y  P ro f e ssi o na l  a nd C o nti nuing Educ a ti o n Ass o c iatio n (U P C E A ,  2017\  indi c a te d th a t m il le nnial s  v a lue d  a lt e rna ti v e c re d e nti a li ng i n the f o r m o f  c e rti f i c a tes a nd digi t a l b a dge s . S im il a rl y ,  Za la z n ic k  (2016 \ o te d tha t i n h igh e r e du c a t io n, it  is  th e  m il le nnial ge n e ra t io n dri v ing t he  ba dg ing  s y s te m in o rde r t o  e a rn m ic r o c re de nti a l s f o r the w o rkf o rc e . T h e  Use  of  B ad ge s  ac r oss E d u c ation T h e  u s e o f  digi ta l b a dg e s re m a ine d la rge l y unta ppe d  unti l 2011 w he n M o z i ll a a nd  T he Ma c A rthur  F o unda ti o n  j o ine d f o rc e s  to  e x plore  the digi t a l b a dge  m ov e m e nt.  T h e  o rga niz a ti o ns s po ns o re d a  tw o m il li o n  do ll a r c om pe ti ti o n f or the  c r e a t io n a nd a ssess m e nt o f  digi ta l b a dg e s (M a c A rthur  F o unda ti o n,  2011\ . V a rio us  l e a d e r s  a c ro s s  th e  U n it e d S t a t e s pa r ti c ip a t e d in t h e ini ti a ti v e . F o r e x a m ple ,  a t t he  l a unc h o f  th e c om pe ti ti o n,  S e c re t a r y  A rne  D u nc a n o f  th e U .S .  D e p a rtm e nt o f  Educ a ti o n a v e nue s f o r le a rne r s  o f  a l l a ge s to  a c quire a nd  d e m o ns tra te a s  w e ll  a s  do c u m e nt a nd di s pl a y . In 20 12 , the  Ha rv a rd Re v ie w re po rte d tha t di git a l  ba dge s  w e re  o ne  o f  f o ur i nnov a ti v e tre nd s  to w a tc h in 2013 (S c hra ge , 2012\ . T h e  re po rt s ugg e s te d  that  the s y s t e m w e  c ur re ntl y  us e o f  a c c re dit a ti o n m a y  f a vo r ba dge s  o v e r tr a dit io na l gra de s a nd digi t a l di p lo m a s  to  s how  s kil l s a c qui sit io n a nd c o urse  c o m ple ti o n.  E v e n the  no n - p ro f it  K a hn A c a d e my ,  w hi c h i s  w e ll - kn ow n f o r  it s  f r e e c o nte nt base d in st ruc ti o na l m ic r o - le c ture s , int e g ra te d  a s y s te m o f point s  a nd b a dge s int o it s  lea rning r e s o urc e s y s t e m .  F r om m e te orite (se e F igure  1\ to m oon ba dge s ,  s tud e nt s e a rn b a dge s  f o r c om ple ti ng c h a ll e nge s , o bta ini ng, po int s , w a tc hing v ide o s , a n s w e ring q ue s ti o ns ,  o r e v e n  do na ti ng to K a hn  ( K a hn A c a d e my , 2015 \ 4 Figure 1. Kahn Ac ade my  Earth Badge .  ( © 2017,  K ahn Ac ade my . Us e d w it h pe rmissi on.\ . O ne  o f  th e  l e a d ing l e a rni ng  m a na ge m e nt s y s te m s  (L M S \ , B la c kbo a rd ha s a ls o  ta k e n a ke y r o le  in t he  pro duc ti o n a nd di s bur s e m e nt o f  digi ta l b a dge s. A  r e c e nt B l a c kbo a rd blo g s t a te d,  s u c h a s MOO C s , pro f e ssi o na l de v e lo p m e nt c o urs e s a nd  w o rkpla c e  tr a ini ng  a nd a l low s  s tude n t s ;  se e a l s o  H ughe s & D o bbin s ,  2015 \ E d u c ation al E xam p les D igi t a l b a dge  r e s e a rc h b e ga n a ro und 2010; how e ve r, the u se  o f  ba dg e s i s  in  a  re l a ti v e s t a t e  o f  infa n c y  c om pa re d to o the r te a c hing t e c hn i que s  ( G ib s o n, Ostas h e w s ki, F li nto f f , G r a nt, & K night ,  2015 \ In f a c t, o nl y o ne  in f iv e  in s ti tu ti o ns o f  highe r e duc a ti o n  a re us ing di g it a l ba dg e s a s  a  m e a n s  o f  a l te rna ti v e  c re d e nti a li ng (F o ng, J a nz ow , & P e c k, 2016\ . R e se a r c h o n digi ta l b a dg e s ha s s how n  m i x e d re s ul ts . F o r e x a m ple ,  R e id,  P a s t e r, a nd  A bra m ov ic h (20 15\ re porte d that  s tude n t s  ha d  a  g e ne r a ll y  p o s it iv e  v ie w o f  ba dge s in Engl i s h  c o urs e s  but t h e  b a dge s d i d no t  ne c e ssa ril y  e nha nc e  m o ti v a ti o n.  In a no the r  s tud y o f  100 nur s ing  s tud e nt s , th e  m a jo rit y o f  s tud e nt s  re po rte d b e ing  m oti v a te d b y  digi ta l ba d ge s ;  y e t , the  qua l it a ti v e pe rc e pti o ns  o f  digi t a l b a d ge s w e re  m i x e d a nd  ra nge d f rom  ne utra l t o  po s it ive  (F o li ,  K a ra gor y , &  K irb y , 2016 \ H e nr y  J e n kins  (201 2\ P ro f e ss o r a t  the U niv e rs i t y o f  S o uthe r n C a li f o rnia  no te d tha t ba dge s  run th e  ri s k o f  c o ntribut ing t o  the  " ga m if ic a ti o n" o f  e duc a ti o n. Je nk ins i s  c o nc e rn e d th a t ba dge s  m ight  be c om e just a no the r s y s te m  o f  p o int s .  A ddit io na l r e s e a rc h h a s s how n tha t s om e s tud e nt s  w a nt t o  a c c um ul a te  b a dg e s  ra th e r tha n  a sso c ia te  l e a rning to  the m  ( R e s ni c k, 2012\ .  A bra m ov ic h (20 13\ o un d tha t  a lt h o ugh digi tal ba dge s  im pr ov e d s tude n t i n te re s t,  the y  ha d li tt l e e ff e c t upo n ov e ra ll  c o m p e te n c y . A ddit io na ll y , s o m e  s c ho la rs  no te d th a t  s u c h re w a rds  a re  o nl y 5 e ff e c t iv e  in t he s ho rt te r m  a nd po s it iv e  e ff e c t s s u c h a s e ng a ge m e nt a nd m o ti v a ti o n  m a y  de c re a se ov e r ti m e  (D e c i, K o e s tn e r & R y a n, 2001 \ e nn y (2013 \ ugge s t e d th a t t h e re  i s  li tt le e v ide nc e  to s uppo rt the  u s e  o f  b a dge s to m o ti v a te  o r e nga ge  l e a rne r s . B ad ge  Cr e d e n tials i n  th e  Wor k f or c e an d  Co m m u n ity As  th e  o pe n ba dge  m ov e m e nt c o nti nue s  to  rise , di git a l  b a dge s m a y  he lp bridge  the  g a p  be tw e e n the  c l a ss ro om  a nd the  w orkpla c e . F o r e xa m ple , in S e pte m be r  o f  2014, the N a t io na l  O c c up a ti o na l C om pe te nc y  T e s ti ng In s ti tu te ( NO C T I \ , the  l a rge st prov ide r o f  indus tr y  a nd  pa rtne r - ba se d c e rti f i c a ti o ns f o r c a re e r a nd t e c h n ica l e du c a ti o n (CT E\  pro gr a m s  a c ro ss  th e  na ti o n,  la unc h e d  th e C o ll e g e  C re dit  R e c om m e nda ti o n  S kil lB a dg e . S tude nt s  w h o  s c o re  a t l e a s t a  70%  o n  a  be n c hm a rk a pprov e d f or c o ll e ge c re dit  b y  the  N a ti o na l C o ll e ge  C r e dit R e c omm e nda ti o n  S e rv ic e  (N C C R S \ a rn th e  S ki ll B a dge  ( N OC T I, 201 5\ As  e m plo y e rs  se e k  a ppli c a nt s  w it h  s p e c if i c s ki ll s  a nd  c om pe te nc ies , d igi t a l ba dg e s  m a y  p r ov ide  a n  a lt e rn a ti v e o r e nha nc e m e nt  to  the tra dit io na l re s um e , - driv e n  le a rning  a nd re c o gniz ing  s ki ll s  a nd  c om pe te nc i e s  w he re v e r the y  a re  a c quire d, b a dge s  c a n i ll um ina te  uniqu e  a n d pe rs o na li z e d B a dg e s  a r e  a l s o  f ind i ng t he ir  w a y  int o  c omm unit y  o rga niz a ti o ns . F o r e x a m ple ,  in f o r m a l  le a rning  s p a c e s li ke the D a ll a s  M u s e um o f  A rt ( DMA \ v e  inc o rpo ra te d the  u se  o f digi tal  ba dge s int o  a  loy a lt y  p r ogra m t o m oti v a te  th e ir v is i to r s to  be c om e m ore  e n ga ge d w it h the e x hibi ts (S e e F igure  2\ . In tur n, the  ba dg e s e a rn e d  c a n  b e  re d e e m e d f o r r e w a rds a t t h e  m us e um ;  thus , ( S te in & W y m a n, 2013 , pa ra . 52\ Figure 2. D M A D igi tal  Badge ( ©  2014 ,  DM A . Us e d w it h pe rmissi on.\ . 6 A bra m ovic h (20 13\ s ugge s t e d  tha t m o re w ork is ne e d e d to  unde rsta nd th e m oti v a ti o n f a c to r  o f  ba dg e s  a c ro ss  a ll  l e v e l s  o f  e du c a t io n a nd v a rie d  le a rning  e nv iro n m e nts .  The  purp o s e  o f  thi s s tud y w a s  to  e x a m ine  the  u s e  o f  digi t a l b a dge s in  highe r e du c a ti o n a c ro ss fo ur inte rdis c ipl in a r y  a re a s :  e du c a t io n, e nginee ring, hu m a n re s o urc e de v e lo p m e nt, a nd nur s in g. C on c e p tual  F r a m e w or k T h e  c o nc e p tua l  f ra m e w ork g uidi ng the  re se a rc h o n us ing di g it a l ba dg e s w a s b a s e d o n t he o r y is w ov e n  w it h  und e rpinning s  o f be ha v io ra l ps y c ho l o g y b a s e d upo n ince nti v e s  a nd  re w a rds . Ex pe c ta n c y  the o r y  ha s  thre e  m a in  c om p o ne nts . 1 .  Ex pe c tancy : O ne  be li e v e s  th e ir e ff o rt  w il l re s ult  in m e e ti ng  a  go a l;  2\ Instrume ntal it y :  Me e ti ng  the  go a l  w il l re s u lt  in  a  re w a rd; a nd 3\ Vale nc e :  T he  v a lue  o f  th e re w a rd is  a tt ra c ti v e  to  the indiv idua l.  T h i s  m o de l  is  b a s e d upo n hum a n  m o ti v a ti o na l t he o rie s a nd  s ugg e s t s  th a t hum a n  m o ti v a ti o n is  inf lu e n c e d b y  a  pa rtic u la r o utc om e  a nd the  int e re s t  a  pe r s o n  ha s  in t h a t o utc om e  (Re dm ond,  2010 \ F o r e x a m ple , in a c a de m ic s ,  the  in struc to r  w ould pre s e n t a c ha l le nging  a ss ignm e nt t o  the  s tud e nt , th e n t h e s tu de nt w il l put  f o rth the  e ff o rt t o m e e t t he pe rf o r m a nc e  go a l i f the y f e e l t h e  o utc om e  or r e w a rd is  w orth it (H a n c o c k, 1995\ . M e thod ology In 20 15 ,  a s  p a rt o f  a  dig it a l ba dg e  pil o t pro gra m , f a c ul t y m e m be rs int e gra ted digit a l  ba dge s int o  the ir c urr ic ul u m . F a c ult y , f rom f o u r d isc ipl ines  ( e duc a ti o n, e ng ine e ring, hum a n  re s o urc e  d e v e lo p m e nt, a nd nur s ing\ a t  a re g io na l uni v e rs it y in t he  S o uth we s t e rn U nit e d S ta t e s , use d t h e  univ e rs i t y  le a rning  m a na ge m e nt s y s te m  ( LM S \ kbo a rd to c re a te digi t a l  b a dge s  thro ugh  o nli ne a c hi e v e m e nt s .  T he  L M S  prov ide d a n ini ti a l  se t o f  ba dg e s  ( se e  F igure 3 \ hic h  7 w e re s e t up t o a utom a ti c a ll y  de plo y t o  s tude n t s w h e n ke y  le a rning m il e s to ne s w e re  m e t.  H ow e v e r, ins truc to rs c o uld c re a t e  a nd uplo a d  a ddi ti o na l ba dge s to  the  L M S  f o r dis tribut io n. Figure  3 . Ex ample  of Bl a c k board Digi tal  Badge s (© 2016, B lack board. Use d w it h pe rmissi on.\ . F urthe r m ore , e a c h b a dge c o nta ine d in f o r m a ti o n a bo ut  the re quire m e nts f o r the  c r e de nt ia l,  the ba dge di stribut io n da te ,  a nd the  na m e  o f  the i ss u e r .  T h e s tude n t s w e re  a bl e  t o  s ha re  th e ir a w a rd s a c ro ss s o c i a l m e dia s it e s to  the ir pe e r s ,  f rie nd s ,  a n d e v e n  po te nti a l  e m pl o y e rs . Re se ar c h  De sign T hi s m ult i - c a se s tud y  inc o rp ora te d a n  e x plo ra tor y m i x e d - m e tho ds  de s ign.  A  m i x e d  m e th o ds  s tud y  invo l v e s  t he  c o ll e c ti o n a nd a n a l y s i s  o f  qua n ti t a ti v e  a nd qu a l it a ti v e  d a t a  in a singl e s tud y w he re  the  da ta a re int e gra te d in  the  pro c e ss o f  the  re se a rc h (Cr e s w e ll ,  1994 ; J o hns o n &  O nw ue gbuz ie , 2004\ . In thi s m i x e d - m e th o ds stud y ,  t he  qua nti t a ti v e  da ta in c lude d d e m o gra phic s ,  a nd the  qu a li ta t iv e  re s e a r c h  e x plo re d  T o  a c c om pl is h  the  purp o s e  o f th e s tud y , a ns w e rs w e re  s o ught t o  the  f o ll ow ing re s e a r c h que sti o ns : 1. T o w ha t e x te nt  do digi ta l  ba dge s  m o ti v a te  stude nt s? 2. W ha t  a re the  p e rc e pti o ns o f  s tud e nt s of digi t a l b a d ge s  f o r use  in hi gh e r e du c a t io n? In str u m e n ta tion D a ta  w a s  ga the re d  in t he f o r m o f a pre  a nd  po s t - s u rv e y  in orde r to  e x a m ine  the pe rc e pti o ns  o f s tud e nt s r e c e iv ing a  digi t a l b a dg e  i n the  L M S  B lac kbo a rd .  T h e  pre - s urv e y c a ptur e d  s tud e nt de m o g r a phic inf o r m a ti o n s uc h  a s  g e nde r  a nd e thn ic i t y . T he s urv e y  a ls o  a s ke d  s tud e nt s th e  g e ne r a ti o n the y w e re  b o rn in, the ir sc hoo l c lass i f i c a t io n, if  they pla y e d c om pute r  ga m e s , a nd  w he the r the y ha d  s e e n  a  digi t a l b a dge be f o re . A dd it io na ll y , u s ing a  Like rt S c a l e  o f  1 - 5,  w it h 1 be ing l e a st i m p o rta nt a nd 5 be ing m o s t i m p o rta nt, s tud e nt s ra te d t he  im p o rta nc e  o f 8 m a king g oo d gra de s ,  l e a r ning t he c o urs e c o nte nt,  o r be ing re w a rde d  w it h ta ngibl e  it e m s (s e e Ta ble  1\ Of  tho s e stude n t s tha t r e c o gnize d the b a d ging  c o nc e pt, t h e y  indi c a te d th a t l o c a ti o ns w he re  the y  ha v e  s e e n  a  d igi ta l b a dg e  include d :  s o c ial m e dia  s u c h  a s T w it ter  a nd m obil e a ppli c a t io ns  (Sw a r m , F our S qua re , V ib e r, L o s e  It \ ,  a n o nli ne  m ult i - pla y e r  ga m e  pla tf o r m (S te a m \ , a nd in a no the r c o urs e . Ta ble  1.  De m o gra phic  a n d D e sc riptiv e D a ta  o f P a r ti c ip a nt s  b y  D isc ipl in e  ( C a se s  1 - 4\ r e - S urv e y E du cat i on E nginee ri ng H R D N ursi ng N umber ( N \ 35 14 28 13 E t hn i c i t y A f r i ca n - A m er i ca n 2 0 13 1 A si an 2 1 1 1 C auc a si a n 27 12 13 11 H i spa ni c 4 0 1 0 O t he r 0 1 0 0 G ender Fem al e 35 4 4 12 Ma l e 0 10 24 1 O t he r 0 0 0 0 G ener at i on  ( % \ Sil e nt  G en er at i on ( 1925 - 1945\ 0 0 0 0 0 B aby  B oom er s ( 1946 - 1964\ 2 0 0 0 G ene r at i on  X ( 1965 - 1981\ 5 0 15 7 Mi l l enni al s/ G en er at i on Y ( 1982 - 1999\ 28 14 13 6 C l ass i f i ca t i on Fre s hm en/ Sophom or e 0 0 0 0 J uni or / Sen i or 35 14 0 7 G r adua t e 0 0 28 6 Mot i vat i on  ( Me an\ G r ade s 4.74 4.71 * 4.85 9 Lear ni ng  C our s e Con t en t 4.83 4.64 * 4.62 Tang i bl e I t em s 1.83 1.80 * 1.82 K no w l edge o f  D i g i t a l B ad ge Pri o r K now l edg e 1 0 2 3 N o Pri o r K now l edg e 34 14 26 10 C om pu t e r G am i ng Pla y ed Gam es 7 6 6 7 D i d N ot  P l ay  G am es 28 8 22 6 T h e po s t - s urv e y  c o nta ined  f o ur de m o gra phic  que sti o ns ,  thre e Like rt - S c a le que s ti o ns de s ign e d to loo k a t the e x te nt o f  s tud e nt m o ti v a ti o n a f te r  re c e iv ing a  digi t a l ba dg e ,  a nd thre e o pe n - e nde d  que s t io ns to unc o v e r h ow  the  ba dge m oti v a te d s tud e nt s a nd t he  im pa c t t he y  ha d in  the  c lass ro om . Like rt sc a les  w e re  a ll  b a se d upo n 5 - po int s  ra nging f rom  (1\ no t to (5\ e x tre m e l y . T he re se a rc h  w a s  a ppro v e d b y  the  Univ e rs it y  Ins ti tut io na l R e v ie w  B o a rd  (I R B \ p rio r t o  da ta  c o ll e c ti o n. A n alysi s of  t h e  Dat a D a ta f rom  e a c h c a se w a s c o de d a nd  a n a l y z e d indepe nde nt l y . T he  qua nti t a ti v e  da ta f rom the  Lik e rt  s c a l e s w e re e v a luate d u sing  A n a l y s i s  o f  V a ri a n c e  ( A NO VA \ test s  to  e x plo re diff e r e nc e s  in m o ti v a ti o n a m o ng  the  f o ur dis c ipl in e s . A n a l y s i s  o f  the qu a li t a ti v e da t a f o c use d o n  a na l y z ing pa tt e rn s  a c ro ss t he  o pe n - e nde d qu e s ti o nna ire  i te m s . Ac c o rding to  S ta ke  (200 6\ re a re  thre e  m a in c rite ri a f o r  e x a m ini ng c a se s : re le v a nc e  o f e a c h c a se , div e rs i t y o f  e a c h c a s e ,  a n d  thi s s tud y , a m ult ipl e - c a se  a n a l y s is  w a s  pe r f o r m e d  us ing d a t a  a c ro ss  a ll f o ur c a se s  to  loo k f or  bo th s im il a rities  a nd d iff e re n c e s .  C om bine d a na l y s i s  r e s ult s a re  di sc u sse d b e low  in t he  c ro s s - c a se f indi ng s c o rr e s po nding t o  the  t w o p ri m a r y re s e a rc h que s ti o ns  in  the stud y . Dat a Collec tion :  C as e s  of  the Stud y 10 T h e  da t a f o r this e x plo ra to r y s tud y w a s  c o ll e c t e d fr om  the  f o ll ow ing f o u r di sc ipl in e s : Edu c a ti o n,  Engine e ring,  H um a n R e so urc e  D e v e lo p m e nt (H R D \ nd  N ur s ing.  T he c o nte x t  a nd po s t - test  re s u lt s f o r e a c h  c a se  i s  d e sc ribe d n e x t. Case  S tud y On e :  E d u c a tion An e x plo ra to r y  c a se s tud y w a s  c o nduc te d  in a n un de rgr a dua t e c o urs e  in  c l a ss ro om m a na ge m e nt  w it hin  the  C o ll e ge  o f  Educ a ti o n a nd  P s y c ho l o g y .  T hirt y - f iv e f e m a le s tud e nt s w e re to ld t he y w ould re c e iv e a  digi ta l  b a dg e f o r o bta ini ng a t l e a st t e n po int s  o n e a c h o f t h e s e v e n  se c ti o ns  o f  a n o nli ne c l a ss ro om m a na ge m e nt po rtf o li o .  Ea c h s e c ti o n  w a s  c o m pris e d o f  a  w ritte n  pa pe r  a nd thre e s uppo rting a rtifa c t s . P ost - S u r ve y T w e nt y one  (60% \ o f  the s tud e nt s c om ple te d the fo ll ow - up p o s t - s urv e y . A ll  o f  the s tud e nt s  re po rte d  re c e iv ing a t l e a st o ne  digi tal ba dge  in t h e ir c o urse . Usin g a  Like rt S c a l e ,  s tud e nt s  w e re  a s ke d w he the r r e c e iv ing a  digi t a l b a dge  in t h e ir c o urse  m o ti va te d  the m . S tude nts (n= 19\ e po rte d a n a v e ra ge  o f  3.16 ( S D = 1.21\ . W he n a s k e d w h y  the y w e re m o ti v a te d to  r e c e iv e a  ba dg e ,  s tud e nt s  re s po nde d  w it h c om m e nts W he n st ude nt s  w e re  a s ke d how m oti v a te d th e y w e re  to w ork a nd re c e i v e  o the r ba dg e s ,  the y  re p o rte d a n a v e ra ge o f  3.22 ( S D = 1.17\ .  It  w a s n' t l ike  I  w a s  ju s t b e ing  gra de d  a nd m ov ing a lo ng , the  in s tru c to r a c tu a ll y  t oo k the  ti m e  to  g o  in a nd giv e  tha t ba dg e  to me A nd,  w he n s tude n t s  w e re  a s k e d to w ha t e x te nt di d g e tt ing  a  ba dg e  m o ti v a te y o u t o w ork  ha rde r, the a v e ra g e w a s a  3.17 ( S D = 1.20\ .  It  m a de  m e  f e e l l ik e  my w ork  s how e d  m e  tha t I  w a s  d W he n  11 F o r t he  15%  o f  s tud e nt s  w h o no te d ba dge s  did no t  m oti v a te  the m , the  e m ph a s i s  w a s  o n the  re c e iv ing a  go o d g ra de  in t h e  c o urse  a s il lu s tr a te d  in t he ne c e ssa ril y m oti v a te  m e  to w or k ha rde r; the y w e re  just  li k e  the li tt l e c he rr y o n t o p f o r  re c e iv ing a Case  S tud y T w o: E n gin e e r in g T w e nt y - nine unde rgr a du a te stude n t s  (junio r a nd se nio r le v e l\ nro ll e d in a re quire d  Engine e ring  H y dr o l o g y  a nd H y d ra uli c  S truc tur e s c o urs e p a rtic ipa t e d in t h i s s tud y . T he  c o urse ,  w hic h  w a s  o f f e re d  thro u gh the D e p a rtm e nt o f  C ivi l &  Env ir o n m e nta l Engi ne e ring, c o ns i s t e d o f t w o  55  m inut e  lec ture s a nd o ne  2 ho u r , 45  m inut e  la bo ra to r y  pe r  w e e k. S tude nts  r e c e iv e d digi t a l  b a dge s f o r a tt e nd ing l a bo ra to r y  c lass e s o n dif fe re n t t o pic s . E a c h inst ruc to r  m a de ba dge ( se e  F igure 4 \ w a s w o rth 2 0 po int s  (o r  o ne f in a l gra d e ; t h e re  w e re  a  to ta l o f  10 ba dge s  th a t  c o uld be  e a rne d.  A nd,  f ull c re dit  w a s  a w a rde d f o r  a tt e nding t h e  la b, p a rti c ip a ti ng  a nd f o ll ow ing a ll  o f  the s a fe t y  re gula ti o ns  o f  the  l a b.  T he  b a dge s w e re  a w a rde d thro ugh B l a c kbo a rd a nd pl a c e d in  a f o lde r s o  the s tud e nt s c o uld see  how m a n y ba dge s the y  e a rne d a nd t he  a t te nd a nc e  po int s w e re  uplo a de d to  the  o nli ne gra de bo o k. Figure 4 . Ex ample  of an  Instruc tor Made Badge P ost - S u r ve y Ele v e n st ude nt s (10  m a le, 1 f e m a le \ om ple te d th e  po s t - s urv e y .  A ll  o f  the stude nt s re po rte d ha v ing re c e iv e d  a t l e a st o ne  digi tal ba dg e in t hi s  c o urse . Using a  L ike rt S c a le  o f  1 - 5,  a nd the stude n t s  re po rte d a n a v e ra g e  o f  3.31 ( S D = 1.13\ .  T he sa m e  s c o re s w e re  re po rte d  w he n  12 o f  3.00 ( S D = 1.07\  (s e e Ta ble  1\ In  f a c t, o ne s tud e nt re m a rke d tha t di g it a l  ba dge s s how e d  m e be li e v e re po rte d no . O ne  s tud e nt s t a t e d, In ge ne ra l  the e ngin e e rin g s tud e nt s  w e re  ne utra l  a s  to w he the r o r n o t di git a l ba dge s  m oti v a te d s t ud e nt s . B a se d o n the  o pe n - e nde d c om m e nts , the s tud e nt s f e lt  t ha t i f  th e  ba dg e s he lpe d  y o ur gr a de /GP A ,  ba dge s w o uld be  use f ul. In this c o urs e , b a dge s  w e re  no t gi v e n f o r  a ddit io na l w o rk in the  c lass  (e .g. e x tra  c r e dit \  v is ua l re m inde r o f  the  i m p o rta nc e  o f la bo ra to r y  a tt e nda n c e .  The  ba dg e s  m a y  ha v e  ha d  m ore m e a ning t o  s tude nt s  i f  th e  ba dg e s  w e re dire c t l y  ti e d to  the  gra de . Case  S tud y T h r e e : Hu m an  R e sou r c e  an d  De v e lop m e n t A n o nli ne  gra du a t e  bu s in e ss c o urse  f o c u se d o n  w orkf o rc e  a nd t a l e nt de v e lo p m e nt.  D uring the se m e s t e r c o urse , th e  gra dua te stude nt p a rtic ipa nt s  u ti li z e d m ult i ple  l e a rning  te c hn iques to  e x pl o re  the  use  o f  digi t a l ba dg e s a s a n a l te rn a ti v e  c r e de nt ia l i ng  m e tho d in  o rga niz a ti o ns . F ir s t, t h e  g ra dua t e s tud e nt s  w h o  c om ple te d th e s tud y  (N = 20\ w e re  re quire d to  re a d  f o ur r e s o urc e s  a bo ut di gi ta l b a dge s a nd  a lt e rna ti v e  c re d e nti a l s  publi s h e d o nli ne  (E duc a u se , 2012,  2013; F le m ing, 2015;  P a r ke r, 201 5\ In a ddit io n, the  in s tru c to r  o f f e re d  the  gra du a t e s tud e nt s a n o pp o rtunit y  t o  e a rn digit a l  ba dge s in t he ir c o urs e  m a na ge m e nt s y s te m  (Bla c k bo a rd\  c o ndit i o na l o n the ir e a rning  a  gra d e  o f a t l e a st 90% o n ta rge te d  a ss ignm e nts  b y  a  s pe c i f i c  due  da t e . F urthe r, the stu de nt s  w e re  a s k e d to o f f e r a  pro f e ssi o na l c o n tex t f o r us ing a  digi t a l b a d ge  a nd d e sc ribe  th a t i n f o rm a ti o n in a  se m e s te r  13 re se a rc h p a pe r o n digi ta l  ba dge s a s a n a l te rn a ti v e  c re de nti a l t e c hnique in t he w orkpla c e .  T h e s tud e nt s w e re  dire c t e d to  c re a te a sa m ple  digi ta l b a dge  f o r the ir de v e lo pe d c o nte x t a n d the n  e m be d the  digi tal ba dg e w it hin t he ir r e s e a rc h p a p e r a s a  figur e , de sc ribing  the  c o nte x t as  w e ll  a s inc ludi ng  a t l e a st  s ix  s o urc e s  w it h a m ini m u m o f  a t  le a st t hre e s o urc e s  b e ing  pe e r - re v ie w e d  jo urna l a rtic l e s . O ne e x a m ple  o f  a  stude nt p a p e r on d igi ta l b a dg e s  e x plo re d the  no ti o n tha t a digi ta l b a dg e  m ight  be  uti li z e d to  re w a rd e m pl o y e e s w h o  s uc c e ssf ul l y  c ompl e t e  a  num be r o f s p e c if i e d l e a d e r s hip  c o ur se s  o nli ne  a nd w it hin t ra i ning s po ns o re d b y  the ir  orga niza ti o n. B y  d o ing  s o , the s tud e nt re m a rke d tha t  a n o rga niz a ti o n f o r tho s e  e m pl o y e e s w h o pur s ue lea de r s hip d e v e lo p m e nt  w hic h in t urn a dds v a lue  to  the o rga n iz a ti o n  w he re  the y w or k (F igu re 4 \ Figure  4 . Ex ample  of a D igi tal  Badge P ost - S u r ve y F o r the  f inal task o f  the c o urs e , the  gr a dua t e s tud e nts  w e re  a l s o  a dm ini s te re d a  po s t - s urv e y . R e s u lt s f rom  the  s urv e y  re f lec t e d that  s tud e nt s  w e re m o de ra te l y m o ti v a te d to  re c e iv e  a digi ta l b a dg e  in t h e  c o urse  (o n a  sc a l e  o f  1 - 5, the a v e ra ge s c o re w a s  3.85; S D = .99 \ he n  a s k e d  w h y  the y w e re m o ti v a te d to  re c e iv e  a  b a dge , d e sc riptiv e  c om m e nts  f rom  s tude nt s  in c l ud e d  re a li z e d that b y  ge tt ing  m y  a s s ignm e nts  in o n ti m e , I  w a s  be ing re w a rde d...li ke  a sti c k e r f o r  w e ll m a j o rit y o f  the  gra du a te s tud e nt s  re po rte d th a t t h e y  f e lt  po s it iv e  tow a rd e a rning a  digi t a l b a dge 14 the m s e lv e s  in a  gr a dua te c o urs e . In a ddi ti o n,  w he n  a s ke d  if  th e y  f e lt  th a t di g it a l b a dge s y s te m s c a n h a v e  a  po s i ti v e  im pa c t o n s tud e nt s , 95%  (18 o f  19  s tud e nt s \ n s w e r e d  y e s  (S e e  F igure 5 \ Figure  5 . Data base d on  a Post - Ex pe rienc e  Surv e y  on Digit al Badge s W he n a s k e d  w h y  ( o r  w h y n o t\ ta l ba dg e s y s tem s  c a n ha v e  a  po sit iv e  i m pa c t o n s tud e nt s ,  e nts w e re  giv e n b y the  pa rt ic ip a nt s  in r e s po nse  to  thi s  qu e s t io n. T he  r e s e a rc h e r c o nc lud e d f ro m  thi s  pil o t st ud y in  a  gra dua t e  bu s in e ss  c o urse tha t di gi ta l b a dg e s y s te m s  h a v e  the  po te nti a l t o  m o ti v a te  gra du a t e s tud e nt s  in o nli ne c o urs e s a s  w e ll  a s  th e  po t e nti a l  to m o ti v a te  e m pl o y e e s  in  o rga niz a ti o ns . Case  S tud y F ou r : N u r si n g N ur s ing  s tud e nt s e nro ll e d in t hre e  r e quire d nur s in g c o urs e s  (Com m unit y  H e a l th N ur s ing,  H e a lt h  Asse ss m e nt, Educ a ti o n R o le s a nd  P r a c t ic u m \ rtic ipa t e d in t h i s s tu d y .  C om m unit y N ur s ing , a  h y brid unde rgr a dua t e  c o urse , m e t o nli n e  a nd  fa c e  to  f a c e  o ne  d a y  a w e e k o n  a lt e rna ti ng w e e ks . B a dg e s w e re  a w a rde d f o r a  gr a de  o f  90 o r highe r o n t wo  quiz z e s a dm ini s te re d dur ing  the c o urs e . S tude nt s  re c e iv e d a  ba dg e  i f  th e y m e t t he re quire m e nts , but t h e y w e re  no t i nf o r m e d the y w ould re c e iv e  the  b a dge s be f o re  c om ple ti ng the t w o a ss e ss m e nts . H e a lt h  Asse ss m e nt  w a s  a w e b - ba s e d  lec ture c o urse w it h a w e e kl y  thre e - h our la bo ra to r y f o r und e rgr a dua te stude n ts .  B a dg e s  w e re  a w a rde d f o r c om ple ti ng c o urs e f o rm s  a nd  f o r  c om ple ti ng thre e  o nli ne m odule s  b y  the  due  da t e .  T h e  Educ a ti o n R o le s a nd  P r a c ti c um w a s  a n  o nli ne , gra dua t e  c o urse w he re  digi ta l b a dge s  w e re  a w a rde d f o r c om ple ti ng pr e c e pto r inf o r m a ti o n  in a  ti m e l y m a nne r.  Ba dge s w e re  a w a rde d thro ug h B lac kbo a rd bu t st u de nt s  w e re  no t i nf o r m e d  the y w ould  re c e iv e  ba dg e s a h e a d o f  ti m e . 15 P ost - S u r ve y T w e lv e  f e m a le  s tud e nt s c om ple te d th e  po s t - s urv e y  (t w o  g ra dua te stude n t s  a nd 10  unde rgr a dua t e s tud e nt s \ W he n a s k e d if the stude n t re c e iv e d a  dig it a l ba dg e  in a  c o urse , thre e sa id  y e s  a nd nin e sa id no , de m o ns tra ti ng a lac k o f a w a re ne ss  o f  th e  ba dg e .  O n a sc a l e  o f  1 - 5  ( w it h 1 be ing no t  m oti v a t e d to  f iv e  be ing  e x tre m e ly m oti v a te d\ e e s tud e nts a n s w e re d  w it h a B a se d o n  the  low  a nd incom ple te  re s po nse  ra t e , nu rs ing  s tud e nt s  do  no t a ppe a r to  be m oti v a te d b y  a  ba dge  a lo ne .  T hi s  m a y  be  f o r a v a rie t y o f  re a s o ns , but i t m a y re la te  to  the pe rc e iv e d li m it e d use  o f  ba dge s in  N ur s ing w o rk s e tt ing s . I f  ba dg e s  w e re  s e e n a s s o m e thi ng tha t  s tud e nt s c o uld  uti li z e f o r  c a r e e r de v e lo ping  s uc h  a s a dd ing to  the ir r e s um e , a n e P o rtf o li o , a nd  he lp t h e m  ge t a  jo b, pe rha p s  th e y w ould be m o re  m oti v a te d to  re c e iv e  a  b a dge . C r oss - Case F in d in gs T o  a n s w e r the  t w o  re s e a r c h que sti o ns  in t hi s  s tud y ,  w e loo ke d a c ro s s  th e  d a ta  a nd  a na l y s e s f rom  the  f o ur c a se s  f o r s h a re d p a tt e rn s  a n d c ha r a c t e ri s ti c s .  A c ro ss the  c a se s , 94%  o f  the s tud e nt s t a king t h e  pre - surv e y re porte d ha v ing nev e r s e e n a  dig it a l ba dg e  b e f o re . D e sc riptiv e s t a ti sti c s  w e re  u s e d  t o  a ns w e r  re s e a rc h  que s ti o n o ne :  T o w hat ex tent do  digi tal  badge s moti v ate stude nts ?  Ta ble 2 show s  the  di f fe re n c e in m e a n a n d s t a nd a rd de v ia ti o n  f o r e a c h  s ub jec t  a re a p e r  m oti v a ti o n a re a .  As  no ted a bo v e ,  m e a s ure s  in m o t iv a ti o n a re  v a lue ra nge s f rom  1 t o  5  o n a  L ike r t S c a le  (w it h  o ne  re pre s e n ti ng low  t o  f iv e  re pre se nti ng high\ T ab le  2 . Diff e r e n c e s in  m o tivat ion  b y gr ou p M o t iv a t io n E du ca t io n  ( N  = 2 1 \ M e a n/S D  ( 1 \ E ng ineeri ng ( N  = 2 9 \ M e a n/S D  ( 2 \ H R D ( N  = 2 8 \ M e a n/S D  ( 3 \ Nursi ng ( N= 12 \ M e a n/S D ( 4 \ 16 6. Did y o u r ec ei v e  a  d ig ital i n th e  co u r s e? 3 . 1 6 ( 1 . 2 1 \ 3 . 1 3 ( 1 . 1 3 \ 3 . 8 5 ( . 9 9 \ 4 ( 1 \ 7 . T o w h at  e x te n t  w er e  y o u m o tiv a ted to w o r k a n d r ec eiv e o th er b ad g es? 3 . 2 2 ( 1 . 1 7 \ 3 . 1 3 ( 1 . 1 3 \ 3 . 5 0 ( 1 . 1 6 \ 4 ( 1 \ 8 . T o w h at  ex te n t d id g ett in g a b ad g e  m o tiv ate  y o u to w o r k h ar d er 3 . 1 7 ( 1 . 2 0 \ 3 . 0 0 ( 1 . 0 7 \ 3 . 6 2 ( 1 . 2 6 \ 4 ( 1 \ A n  A na l y s i s  o f  Va ria n c e (A NO VA \ w a s  c o nduc t e d o n pa ire d a nd gr o upe d da ta se t s . T h e c o nf ide n c e int e rv a l w a s  se t t o  95%  (a lpha  =  0.05\ . Ea c h o f  th e  f o ur disc ipl i ne s (e ngin e e ring,  e duc a ti o n, nur s ing,  a nd  H R D \ w e re  c om pa re d to e a c h o the r.  T h e re  w a s  n o  s ta ti sti c a l di ff e r e nc e f o und be t w e e n the student  pe rc e pti o ns in  a n y o f  the  f o ur disc ipl ines f o r que s ti o ns  6, 7  a nd 8. H ow e v e r, t he re w e re  sta t ist i c a ll y  dif fe re nt  s tud e nt pe rc e pti o ns a bo ut digi ta l  ba dge s f o r Q ue s t io n  10 : Do y ou be li e v e  that  digi tal  badge  sy stem s c an hav e  a  posi ti v e  impac t on  students? N ur s ing  a nd  E nginee ring m a jo rs  se e m ed less c o nv inc e d that digi tal ba dg e s c o uld ha v e  a  po s it iv e  im pa c t  o n s tude nt l e a rning. T o  fur the r te s t  thi s  h y p o the s i s , th e  d a ta  w a s  gro up ed int o  a ppli e d m a jo rs ( E ngine e ring  a nd  N ur s in g\ nd no n - a ppli e d m a jor s  ( E duc a ti o n a nd  H R D \ a nd a s t a ti s ti c a l diff e r e nc e w a s f o und  f o r  the  a f o re m e nti o ne d que s t i on . D a ta  w a s  gro upe d int o m a le a nd  f e m a le s tud e nt s fo r a ll  f o ur dis c ipl ines . As  pre v io us l y f o und, the re  w a s  no  dif f e re nc e  f o r  Q ue sti o ns  6, 7  a nd 8, but t h e re  w a s  a  di ff e r e nc e  in  Q 10 ( Do  y ou be li e v e  that  digi tal  b adge  sy stem s c an ha v e  a  posi ti v e impac t on s tudents? \ M a le stude n t s w e re m o re  li ke l y  to  c omm e nt t ha t t he y  did n o t be li e v e  digi t a l b a dge s c o uld ha v e  a  po s it iv e i m pa c t o n s tud e nt s . T ab le 2. S u m m a r y of  AN OVA r e su lts f or  Q10 Educ a t io n H R D N ur s ing N o n - a ppli e d Ma l e Engine e ring 0.007 0.007 0.746 17 Educ a t io n 1.0 0.032 H R D 0.032 A ppli e d 0.00036 F e m a le 0.011 RQ2.  Wh at w e r e  the pe r c e p tion s of  stud e n ts of d igi tal b ad ge s  f or  u se  in  h igh e r  e d u c ation ? A na l y s is  o f  the  qu a l it a ti v e  da t a f o c use d o n a na l y z ing pa tt e rns a c ro s s the thre e  o pe n - e nd e d  que s ti o nna ire  i te m s .  In r e ga rds to R e s e a rc h  Q ue sti o n 2:  W hat w e re  the p e rc e pti ons of  students of digi tal  badge s for  use  in  higher e duc ati on ? , f iv e bro a d the m e s e m e rge d: Ac know le dg m e nt,  Inte rna l  M o ti v a ti o n, E x te rna l  M o ti v a ti o n, C om pe ti ti o n, a nd A c c o unta bil i t y (S e e  Ta bl e  3\ . A c ro ss a ll f o ur disc ipl in e s ,  s tud e nt s  no te d th a t b a d ge s w e re  a n  a c know le dge m e nt o f  the w or k the y  ha d do ne .  E du c a t io n , Engine e ring, a nd  H R D s tud e nt s no te d th a t  digi ta l b a dg e s  w e re e x te rna ll y m o ti v a ti ng .  How e v e r, s e v e ra l o f  the s t ude nt s  indi c a te d  tha t  the gra de  w a s  m ore m oti v a ti ng tha n the  b a dg e . F o r e x a m ple , a n  Educ a ti o n  N e it he r  Engin e e ring  no r  N urs ing  stude n t s c o nv e y e d tha t ba dge s  w e re  int e rn a ll y m oti v a ti ng to  the m .  F urthe r m o re , b o t h  Educ a t io n  a nd H R D s tud e nt s re po rte d th a t b a dge s w e re  s o m e w ha t o f  a  c o m pe ti ti o n a m o ngs t t he  s tud e nt s .  F inall y , it s ho uld be  no te d th a t bo th  Engine e ring  a nd  H R D s t ude nt s s t a t e d that ba dg e s he lpe d  to  ke e p th e m a c c o unta ble . T ab le 3. P e r c e p tion s of  Digital B ad ge s T hem es C ase  O ne E duc at i on C ase T w o E ngi ne eri ng C ase T hr ee H um an  R es o urce D evel o pm ent C ase Fou r N ursi n g A ck no w l edgm ent I t i s r ecogni t i on of our  w or k. I t ' s l i ke a r ew ar d f or doi ng w or k. B adges  ar e a f or m of  r ecogni t i on and m ot i v at i on I t i s a  ni ce  r ew ar d f or  a  com pl et ed j ob. Int ernal Mot i vat i on I t m akes  t he  st udent  happy  t hat I t  f e l t  good, I l aughed t ho ugh i t m a y  l ook l i ke 18 t he y  di d a good  j ob. I t j ust m ade m e  f eel  good so I  t hi nk  i t  does  t he s am e t o  ot her s a l so. som et hi ng f or chi l dr en, I  r eal i zed  i t  hel ped m e t o  w or k har der . G av e m e  i ncent i v e  t o push f or w ar d E xt ern al Mot i vat i on The ba dges  ar e al ong t he l i nes  of check m ar ks or gr ades  and  m ost st udent s w ant  t o  pl eas e t he t eache r . Ev en t hough i t ' s a sm al l  t hi ng, l i ke  get t i ng a s t i cker  i n  el em ent ar y  sc hool ,  i t  does  gi v e  y ou a  l i t t l e  ext r a pr i de i n  y our  w or k. Som e s t udent s m a y need t he b adges  as an i ncent i v e t o  w or k har d. I f y ou keep  r ecei v i ng good  gr ade i t ' s l i ke an  i ncent i v e t o keep up  t he har d w or k a nd  get  an  A  i n t he cl as s I f  each ba dge co unt s  f or  poi nt s t ow ar ds a t es t  or  a  f i nal  gr ade  i t  w i l l  i nspi r e t he  st udent s t o do  w hat ev er  i t  t akes  t o  get  a badg e. I  w ant ed t o  m ake  sur e I  edi t ed m y paper s be t t er  and  r es ear ched m or e. I t w as  an aw ar d  and I  w ant ed one. A f t er  r ecei v i ng m y f i r st  badge, I r eal i zed by  get t i ng  m y  as si gn m ent s i n  on t i m e,  I  w as bei ng r ew ar ded. I  w as m ot i v at ed  becaus e I  w as r ew ar ded f or  m y se r v i ce l ear ni ng  as si gnm ent . C om pet i t i on I t i s a l m ost  l i ke a  cont es t  t o se e w ho  can get  t he m ost badges . I t m ade  m e f eel l i ke I  st ood out m or e b y  havi ng  di gi t al  badges A cco untabi l i t y H el ps ke ep t r ack of gr ades . B ecaus e  i t  keeps y ou up t o dat e on . H el ps t o show achi ev em ent  and  ski l l s l ear ned. D iscus sion  an d  Conclu s ion In this  r e s e a rc h  s tud y ,  w e  e x plo re d the  pe rc e p ti o ns o f  90 s tud e nt s  a c ro ss f o ur  disc ipl in e s .  T h e re  w e re  dif fe re n c e s  b e tw e e n the s tud e nt  s e t s  w it h the a ppli e d  m a jo r s tude nt s se e m ing t o  be less  int e re ste d in b a dg e s a s  a  m o ti v a ti o na l t oo l t h a n the  no n - a ppli e d m a jo rs . F o r e x a m ple ,  w he n  19 Do  y ou be li e v e  that  digi tal  b adg e  sy stem s c an ha v e  a  posi ti v e  impac t on  students ? 90 %  o f Educ a ti o n  s tude n t s a nd 9 0 %  o f H R D s tud e nt s re s po nde d y e s ,  w hil e  o nl y  55 % o f Engine e ring  s tud e nt s a nd 62%  o f N urs ing  s tud e nts r e s po nde d  y e s . A c c o rding to  F a nf a re ll i a nd  Mc Da ni e l (2015\ , indi v idua l di f fe re n c e s  a m o ng st ude nt s c a n  a f fe c t t h e w a y tha t re c e iv ing ba dge s is  p e rc e iv e d. O ur r e s u lt s s ugg e s t t h a t gro ups  o f s tu de nt s s how  dif f e re n c e s in  the ir o pini o ns tow a rd the  use  o f  ba dg e s in e duc a ti o n. F o r e x a m pl e ,  s tud e nt s  w it h a ppli e d  m a j o rs  te nde d to  be less c om pe ll e d b y  the  uti l it y o f  ba dge s  w hil e  tho s e  in no n - a ppli e d m a jors  v ie w e d the m m ore f a v o ra bl y .  T he se  re s u lt s show  tha t,  w hil e  digi ta l b a dge s  m a y be w o rth w hil e  in s om e  disc ipl ines ,  the y m a y  n o t  be w orth w h il e  in o the r s . W e a l s o  f o und e v ide nc e  f o r dif f e r e nc e s  in t h e w a y s  tha t  s tud e nt s  re spo nde d to  ba dge s  a s a f unc t io n o f  ge nde r. T a ke n  to ge the r, th e re  i s e v ide nc e  that  pre v io us  s tudi e s  finding  m i x e d e v ide nc e  o n the  ut il it y o f  the  ba dg e s  m a y  b e  due  in p a rt to une x plo re d gr o up dif f e re nc e s  w it hin t he s a m ple .  S tude nt s  in  a ll f o ur disc ipl ines f a v o re d the  use o f digi ta l  b a dge s  w he the r o r n o t t he  s tud e nt s  tho ught t ha t t h e y w e re m o ti v a ti o na l.  R e se a r c h  (U P C E A , 2017\ a l s o indi c a t e d th a t m il le nnial s  v a lue d  ba dging ; how e v e r,  re ga rdle ss  o f disc ipl ine ,  a ll  thr e e  g e n e ra ti o ns (B a b y  B oom e r, G e ne ra ti o n X ,  G e n e ra ti o n Y\ o f  pa rtic ip a nt s s urv e y e d re p o rte d  tha t t a ngibl e  it e m s li ke  d igi t a l b a dge s w e re  less  m o ti v a ti ng to  the m tha n  re c e iv ing goo d gra de s a n d le a rning  the c o urs e c o nte nt. B e y o nd dif f e re n c e s  in  s t ude nt c o m p o s it io ns , it  m a y  be  p o s sibl e tha t  these re s u lt s  w e re due  to  the w a y  in  w hic h the  teste d  c o urs e s im ple m e nte d b a dg e s .  Ac ro ss a ll disc ipl ines ,  fa c ul t y m e m be rs  use d o r c re a te d  digi ta l b a dg e s f o r use  w it hin t he  L M S ; h ow e v e r , onl y H R D s tud e nt s c re a te d  the ir ow n ba dge s to  dis pla y  a s  p a rt o f  the ir  c o urs e a ss ignm e nt , pe rha ps c re a ti ng m o re pe rs o na li z e d lea rning  a n d  le a d ing t o  the  highe r p e rc e nt a ge  o f  im pa c t.  A ga i n, a t l e a st o ne  iss ue w it h the  c urr e nt e v a lu a ti o n  o f  the  e ff ica c y o f  ba dge s  in  e duc a ti o n is tha t  th e re  re m a ins  no 20 s t a nd a rdiz e d m e tho d  o f  im ple m e nti ng the m  int o  c o urs e s .  T h i s w a s a l s o  se e n in re s e a rc h b y A bra m ov ic h (20 13\ e c i, Ko e s tne r &  R y a n (20 0 1\ nd De nn y (2013 \ w hic h ba dge s  m a y ha v e  ha d a s m a ll  in f lue n c e  in  s tud e nt i nt e re st but  o v e ra ll w e re  no t t ie d to  c om pe te nc y o f  the m a te ria l o r  m oti v a ti o n. A s tud y  c o nduc te d b y F a ji c ul a y , P a rikh, W right, a nd S he e ha n (20 17\ w it h pha r m a c y  s tude nt s suppo rts  th e s e f ind ing s  a s s tud e nt s  p e rc e iv e d ba dg e s  to  be  h e lpf u l f o r  le a rning  c o urs e  m a te ria l.  W hil e  the  b a dg e s  m a y  n ot  m o ti v a te  the s tud e nt s to  c om ple te  the a ss ignm e nts ,  s om e  s tud e nts  d id  s e e m  t o  a ppre c i a t e  the e x tra  a t te nt io n the y re c e iv e d f o r  c om ple ti ng the  a ssi gnm e nt;  the a ss um pti o n f r om  t he  c om m e nts  i s  th a t  s tud e nt s  w o uld ha v e c om ple te d the a ss ignm e nt f o r the  gra de  w he the r o r  no t t he re w a s  a n o ppo rtu nit y  to re c e iv e a digi ta l b a dg e . T h e  da t a  re v e a le d  the  n e e d f o r the  inst ruc to rs  to m o re  c le a rl y  de f ine a nd  c o mm unic a t e  the re quire m e nts f o r digit a l b a dge s to  the  stude nt s.  M o ti v a ti o n  m a y  ha v e  de pe n de d upo n the  qua li t y c o ntro l  o f  the se a w a rds  a nd a s  fa c ult y  le a rn to  i m p le m e nt t he m  int o  the ir c o urs e s ,  the r e  m a y  be a n inc r e a se  in  stude nt m oti v a ti o n, b o th e x te rna ll y a n d  int e rna ll y . To f urthe r a ss e ss t he  v a lu e  o f digi ta l b a dg e s  it  w o uld b e  ne c e ssa r y  t o  e x pa nd digi ta l b a dge s int o m o re  c lass e s  w it hin a s ingl e disc ipl ine o r ov e r  m ult ipl e  di sc ipl in e s . A nd, i nc r e a s ing  the e x po s ure  o f  s tud e nt s  to  digi tal ba dg e s in a s ingl e  di sc ipl in e  w o u ld f urthe r d e fine stude nt  pe rc e pti o ns .  A ddit io na l r e s e a rc h i s ne e de d  to de te rm ine  if  digi tal ba dg e s  m o ti v a te s tud e nt s  m o r e w he n a ss o c ia t e d w it h a  gra de  o r  w ork  o uts ide c lass ro om tha n a s a  re w a rd f o r a n a ssi gnm e nt f o r  w hic h the y  a lre a d y  e a rne d c re dit .  F urthe rm o re ,  the  ba dg ing do ne  in t hi s s tud y w a s  no t s ha ra bl e  a c ro s s  th e  L M S  a s  pa rt o f a n o pe n ba dging s y s te m . S tude nts  w a nt a c c e ss  to  a  digi ta l  c a m pus (D J S  R e se a r c h, 2016\ . D igi ta l b a d ge s  a r e  a c om p o ne nt o f  e - c re de nt ials ,  li ke e - 21 pro je c ts;  a nd  a re  p a rt o f  a  f o re se e a bl e  a c a de m ic m ov e m e nt t ow a rd e nha nc e d digi ta l pro c e sses (H ic k e y , 2017\ .  Inde e d, t he  f u ture  o f  digi t a l b a dge s , o r a lt e rn a ti v e  c r e de nt ials , r e a c he s f urth e r  tha n t h e  highe r  e duc a ti o n c lass ro om  a nd s om e  univ e rs it i e s  a r e  prom o ti ng c om pe te nc y  ba dge s tha t  c o uld prov ide  pr oo f  o f  s kil l s  n e e de d  f o r v a ri ous  jo bs  (Bu ll , 2015\ .  If  w e  trul y  a d vo c a te li fe - lo ng le a rning, a ddi ti o na l re se a rc h  s ho uld be  do ne  o n h ow  ba dging c a n m ove  be y o nd pa rtic ipatio n  a nd a ssi gnm e nt c om ple ti o n t o  true  c re de nt ia l s o f  m a s te r y  le a rning. L im itat ion s T h e re  w e re  s e v e ra l  li m it a ti o ns  to  thi s stud y .  O ne  l i m it a ti o n o f  thi s s tud y  is it s ge ne r a li z a bi li t y  due to  th e  fa c t t h a t t h e s tud y w a s  ba s e d o n ju s t 90  s tud e nt s f rom o ne  f o ur - y e a r  inst it uti o n. In  a ddit io n, the  pre - s urv e y  c a nno t be  a ss o c i a te d w it h a ll  o f  the spe c i f i c s tud e nt s  in  the po s t - s urv e y  a s  th e s urv e y s  w e re  a no n y m ous . N o r  w e re  s tud e nt s  re quir e d to  a n s w e r a n y o f  the que s ti o ns  w hic h le d to  s o m e v a ria bil it y  in re s po ns e s . A n  a ddit io na l l im it a ti o n in t his s tud y  is  tha t  the f a c ult y w e re  ne w  t o  b a dge c re a ti o n a nd im ple m e nta ti o n.  S om e o f  the  b a dge s  w e re  a w a rde d  f o r  m e e ti ng s o m e  c rite rion ( pe rf o r m a nc e - ba s e d\ w h il e  o the r ba dge s w e re  a w a rde d f o r e ff o rt  (S c he nke , 2013\ . F uture  re se a rc h n e e d s  to  be c o nduc te d  to  de te rm ine  dif fe re nc e s  a m o ngs t  gra dua t e  a nd und e rgr a du a te stude n t s  b y  f o c us ing  o n s i m il a r di s c ip li ne s . The re  w e re  no t e n o ugh  gra dua t e  o r und e rgr a dua t e s tud e n t s  in  a n y o ne  disc ipl in e  to  f urthe r  a na l y z e  thi s  diff e re n c e .  T h e diff e r e nt t y pe s  o f  ba dg e s m a y  ha v e  a ff e c t e d  s tud e n t  m o ti v a ti o n. A nd, a s  no t e d pre v io us l y , s om e s tud e nt s  w e re  no t a w a re  tha t t h e y  c o uld e a rn ba dg e s . 22 R e f e r e n c e s A bra m ov ic h, S . R . (201 3 \ r e  ba dg e s  u se f u l i n e duc a t io n? I t d e pe nd s  upo n the  t y pe  o f  ba dge a nd e x pe rti se  o f  lea rne r. Educ ati onal T e c hnology Re se arc h  & D e v e lopm e n t , 61 (2\ , 217 - 232. B e g y , J . & C o ns a lv o , M . (201 1\ A c hi e v e m e nts , m o ti v a ti o ns  a nd re w a rds  in  f a un a s ph e re .  Gam e Studi e s, 11 (1\ . R e trie v e d  f rom htt p:/ /ga m e s tud ies . o rg/1101/a rtic les/be g y _c o ns a lv o B lo t,  K . (201 4\ Shaping  the futur e  of educ ati on as a f ounding me mbe r of  the badge  all iance . R e tri e v e d f rom htt p:/ /bl og.bla c kbo a rd.c o m /s ha pin g - f uture - e du c a ti o n - f o und ing - m e m be r - ba dge - a ll i a nc e / B ull , B . (201 5, S e pt e m be r 18\ . W h y  C o ll e ge s  S hould S uppor t A lt e rn a ti v e C re de nt ia l s.  C hroni c le  of Higher Educ ati on ,  12. C ha t f i e ld,  T . (201 0\ 7 w ay s game s reward t he  br ain. R e tri e v e d f rom htt p:/ /w ww .te d.c om /t a lks/ tom _c ha tf i e ld_7_w a y s _ ga m e s _re w a rd_the _bra in/ tra n s c rip t ? l a n gua ge = e n (9:44\ C re s w e ll ,  J . W . (199 4\ R e se arc h de sign:  Qualit ati v e  and quanti tat ive  approac he s. T ho us a nd  O a k s ,  C A : S a ge . D e c i, E. L., K o e s tne r, &  R y a n, R . M . (200 1\ Ex t r insi c  re w a rds  a nd in tr in s i c  m o ti v a ti o n in  e duc a ti o n: R e c o ns id e re d  o nc e  a ga in.  Re v iew of  Educ ati onal Re se arc h, 71 ,  1 27. D e nn y , P . (201 3\ T he  e ff e c t of  v irt ual achie v e me n ts on  student e ngage me nt . P ro c e e ding s  o f  th e S IG C H I c o nfe re nc e  o n hu m a n f a c to rs in  c om puti ng s y s te m s , A C M ,  Ne w Y o rk, N Y ,  U S A , pp. 763 772. DJ S  R e se a r c h (20 16\ u r r e se a r c h find s  m a jorit y o f  s tud e nt s  w a nt uni v e rs it ies  to  re v ie w  the ir  digi ta l  stra t e gi e s . R e trie v e d f rom ww w .djs re se a r c h.c o .uk/c o nte nt/ pa g e / a bo ut - a utho rs 23 Educ a u se  Libra r y  (201 2 \ .  7 thi ngs y ou shoul d k now  about badges. R e tri e v e d f rom htt p s :/ /n e t. e duc a u s e . e du/ i r/libra r y /pdf /ELI7 085.pd f Educ a u se  Libra r y  (201 3 \ .  M icro - c re d e nti ali ng . R e trie v e d f rom htt p:/ /w ww .e duc a use . e du /l ibra r y / m ic ro - c re de nti a li ng F a ji c ul a y , P a rikh, W right, &  S he e ha n. (20 17\ tude nt pe r c e p ti o ns  o f  digi t a l ba dge s in a  drug inf o r m a ti o n a nd li te ra tur e  e v a lu a ti o n c o urs e .  C ur r e nts i n Pharmac y  T e ac hi ng and  L e arni ng . htt p s :/ /do i.o rg/10.1016/j .c ptl .2017.05.0 13 Fanf a r e l l i ,  J o se ph R ., & Mc D a ni e l , R udy .  ( 2015 \ . I ndi v i dua l  di f f er enc e s i n  di g i t al badg i ng :  D o l ea r ne r cha r ac t er i s t i c s m at t e r ?  J our nal  o f  Educ at i ona l  Tech nol ogy Sy st ems , 43 ( 4\ , 4 03 - 428. F le m ing, L. (2015\ . C re a te  a  v ibra nt di g it a l ba dg e e c o s y s te m .  W orlds  of L e arni ng . R e tri e v e d  f rom htt p:/ / w orlds - of - le a rning.c om /2015/ 02/03/ c re a t e - a - v ibra nt - ba dg e - e c o s y s te m / F o li , K . J .,  K a ra go r y , P ., & K irb y ,  K .  (2016 \ n e x pl o ra tor y  s tud y o f  unde rgr a dua t e  nur s ing  s tud e nt s ' pe rc e pti o ns  o f  d igi ta l b a dg e s .  J ournal  of  N ursi ng Educ ati on, 55 (11\ , 640 - 644.  do i: 10.3928/01484834 - 2 0161011 - 06 F o ng, J .,  J a n z ow , P ., & P e c k, K . (201 6\ De mogra phic shif ts i n e duc ati onal  de mand and the  ris e of al ternati v e  c re de nti als. R e tri e v e d  f rom  htt p :/ / w ww .upc e a .e du/ri se - of - a lt - c re d s F o s te r,  J . C . (201 3\ T he prom is e  o f  digi t a l b a dge s. T e c hniques:  C onne c ti n g Educ ati on  & C are e rs , 88 (8\ , 30. G ib s o n, D .,  Os t a s he w s ki, N ., F li nto f f , K ., G ra nt, S ., K night , E. ( 2015 \ D igi ta l b a dge s in  e duc a ti o n. Educ ati on al Informati on T e c hnology , 20, 403 - 410. D O I 10.1 0 07/s 10639 - 013 - 9291 - 7 H a n c o c k, D .  R . (199 5\ W ha t t e a c h e r s m a y d o  t o inf lu e nc e s tud e nt m o ti v a ti o n: A n a ppli c a ti o n  o f  e x pe c ta n c y t he or y . T he  J ournal  of Ge ne ral Edu c ati on ,  44 (3\ , 171 - 179. 24 H a la v a i s ,  A .  M . C .  (2012 \  ge n e a lo g y o f  ba dge s: Inhe rite d m e a ning a nd  m ons tro us m o ra l  H y b rids .  Information, C o mm unication, and Socie t y , 15 ( 3 \ 354 - 373. H e n sie k, S ., De K o r v e r,  B . K ., H a r w oo d, C . J ., F is h,  J .,  O  S he a , K ., & T ow ns , M . (201 7\ ig it a l  B a dg e s  in S c i e nc e :  A N o v e l A ppro a c h to  the  Asse ss m e nt o f  S tude nt Le a rni ng.  J ournal of C oll e ge  Sc ienc e  T e a c hin g ,  46 (3\ , 28 - 33. H i c ke y , D . T . (201 7, A pr il  14\ H ow  O pe n E - C re de nti a l s  W il l  T ra n sf o r m  H ighe r E duc a ti o n.  C hroni c le of  Highe r Edu c ati on ,  13. H ughe s ,  G ., &  D o bbins ,  C . (201 5\ he  ut il i z a t io n o f  da ta a na l y s is  t e c hn iqu e s  in pre di c ti ng  s tud e nt p e rf o r m a nc e  in  m a s s iv e  o pe n o nli ne  c o urse s  ( M OO C s \ e se a r c h  a nd  P ra c ti c e  in  Te c hno lo g y  Enha nc e d L e a rning, 10( 10\ trie v e d  f rom htt p:/ / t e lrp. s pringe ro pe n. c om /a rtic les/10.1186/ s 41 039 - 015 - 0007 - z O tt o , N .,  H i c ke y , D . (201 4, A ugu s t 14\ De sign p ri nc ipl e s for  digi tal  badge  sy stem s. C omparati v e  me thods  for  unc ov e ring l e ssons  in ec osy stem  de sign. P a p e r pr e s e n te d  a t 1 s t  Inte rna ti o na l Wo rks ho p  o n O pe n B a dg e s  in Edu c a ti o n. Ta ll inn, E s to nia . Je nkin s ,  H . (201 2\ How t o e arn y our ske pti c  badg e . R e trie v e d  f rom htt p:/ /h e nr y je nkins .o rg/2 012/03/ how _t o _e a rn_ y o ur_s ke p ti c _b a dg e .htm l J o hns o n R . B ., &  O n w ue gbuz ie ,  A .  J . (200 4\ M ix e d m e tho ds  re se a r c h:  A  re s e a rc h p a ra digm w h o s e  ti m e  ha s c om e .  Educ ati onal Re se arc he r, 33 (3\ , 14 - 26. K a pp,  K . M . (201 2\ T he  gamifi c ati on of l e arni ng  and ins truction: Gam e - b ase d me thods  and  str ategie s for  trai ning an d e duc ati on .  N e w  Y ork:  P fe i f fe r :  A n I m print o f  J o hn W il e y  &  S o ns . K a hn A c a d e my  (201 5\ Badge  type s . R e trie v e d f r om  htt ps :/ /w ww .kha na c a de my . o r g/ba dge s 25 Ma c A rthur  F o unda ti o n ( 2011, S e pte m be r\ .  Digit a l me dia  &  learning c omp e ti ti on prov ides $2  mill ion f or i nnov ati ons i n  digi tal  badge s.  R e trie v e d f rom htt p s :/ /w ww . m a c f o und.or g/pre ss/ pre ss - re l e a se s /d i git a l - m e dia - lea rning - c om pe ti ti o n - prov ide s - 2 - m il li o n - f o r - in nov a ti o ns - in - digi ta l - ba dg e s / Ma c A rthur  F o unda ti o n ( 2017\ .  Digit al badges. R e trie v e d  f rom htt p s :/ /w ww . m a c f o und.or g/pro g ra m s /di git a l - ba dg e s / M cA fe e ,  M .  J. (2015\ . S e rv ic e ,  w a r a nd  v e te ra n S tripe s :  T rue  b a dge s  o f d i st inc ti o n. M il it ary Im age s , 33 (1\ , 49. M o z il l a  (201 6\ W hat ar e  ope n badge s? R e trie v e d  f rom  htt ps :/ /o pe nba dg e s . o rg/ge t - s ta rt e d/ NO C T I ( 2015\ .  Badge F AQ . R e trie v e d  f rom htt p:/ /w ww . n o c ti .o rg/pdf /ba dge s/Dig it a l%20B a dg e % 20F A Q .pd f O ' B y rne , I.,  S c he nke , K ., W il li s ,  J . E. & H ic k e y ,  D .  T . (2015 \ D igi t a l b a d ge s  r e c o gniz ing,  a ss e ssi ng, a nd  m o ti v a ti ng l e a rn e r s i n a nd  o ut o f  sc ho o l c o nte x ts . J ournal  of Adol e sc e nt  & Adult  L it e rac y , 58 (6\ , 45 1 454. do i: 10.1002/j a a l. 381 P a rke r,  H . (201 5\ igi tal ba dge s a s e f fe c ti v e  a ssess m e nt t oo ls .  N ati ona l Insti tut e  for L e arni ng  Outc ome s Assessm e nt. R e trie v e d  f rom htt p:/ /w ww .le a rningo utc om e a ss e ss m e nt.o rg/d o c um e nts /Assess m e nt_i n_ P ra c t ice _ D igi t a l_ B a dg e s .pdf R e c o nne c t Le a rning ( 201 4\ W hy  badge s? R e trie ve d f rom ht tp: // w ww . re c o nne c tl e a r ning.o rg/# w h y ba dge s R e dm o nd,  B . F .  (2010 \ PSY C H 484: W or k  att it ude s and j ob motivation : Ex pe c tanc y t he ory .  R e tri e v e d f rom htt ps :/ /w i kis p a c e s .p s u. e du/di s p la y / ps y c h484/4.+ e x pe c ta n c y + the o r y 26 R e id,  A .,  P a s t e r, D ., &  Abr a m ov ic h, S .  (2015 \ igi ta l b a dge s in u nde rgr a d ua te c om p o s it io n  c o urs e s :  e f fe c t s  o n int rins i c  m o ti v a ti o n. J ournal  o f C ompute rs i n Educ ati on, 2 (4\ , 377. R e s ni c k ,  M . (201 2\ Sti ll a badge  sk e pti c . R e trie v e d  f rom htt p s :/ /w ww . ha s t a c .o rg/blo gs /m re s /2012 /02/ 27/ s ti l l - ba dge - s k e pti c S c he nke , K . (201 3\ De si gn pri nc ipl e s for  motivati ng learning w it h digi ta l b adge s. R e trie v e d  f rom htt p:/ / ww w .ha s t a c . o rg/bl o gs /ksc h e nke /2013 /06/ 05/design - princ ipl e s - m oti v a ti ng - le a rning - digi ta l - b a dge s S c he nke , K ., T ra n,  C .,  &  H i c ke y . (201 3\ De sign  p rincipl e s for mot ivating l e arni ng w it h  d igi tal b adge s . HA ST AC , 5 J un e  2013. S c hra ge ,  M . (201 2\ Four innovation t re nds t o w a tch in 2013 .  R e tri e v e d f r om htt p s :/ /hbr.o rg/2012/12/ fo ur - innov a ti o n - tre nds - to - w a tc .htm l S kinne r, B. F . (195 0\ r e  the o rie s  o f  l e a rning n e c e ss a r y ? Psy c hologi c al Re v iew, 57 , 193 - 216. S ta ke , R . K . (200 6\ M ult ipl e  c ase  study analy sis .  N e w  Y o rk: G uil f o rd P re ss . S te in, R . & W y m a n, B . ( 2013\ . N urtur ing e nga g e m e nt:  H ow  te c hno l o g y  a nd bus in e ss  m o de l  a li gnm e nt c a n tr a n sf o r m v is it o r pa rtic ip a ti o n in t he  m us e um .  In M use ums a nd the  W e b  2013 , N .  P ro c to r & R. C he rr y  ( E ds . \ il v e r S prin g, MD :  M u se um s  a nd th e  W e b.  R e tri e v e d f rom htt p:/ / m w2013. m us e um s a ndth e w e b.c om /pa pe r/nur turing - e nga ge m e nt/ S iu, A ., W a gne r, C., & L iu, L. (2016\ .  Enha nc ing  use r e ng a ge m e nt t hro ugh  ga m if ic a t io n.  J ournal  of C ompute r Informati on Sy stem s, 1 - 10.  R e tri e v e d f rom htt p:/ /dx .do i. o rg/10.1080 /08874417.2016.1229143 UP C E A  (201 7\ ng e s in l a bo r s t a ti s t ics signa l  m a j o r  o c c upa ti o na l  s hi f t s a nd im pa c t t o  highe r  e duc a ti o n c re d e nti a l s . R e trie v e d f rom htt p:/ /upc e a . e du/c h a ng e s - la bo r - s t a ti s t ics - s ign a l - m a j o r - o c c upa t io na l - s hi f t s - im pa c t - highe r - e du c a ti o n - c re de nt ia l s/ 27 U S D E ( 2011 \ .  Digit al badges for l e arni ng .  R e tri e v e d f rom htt p:/ /w ww .e d.g ov /ne w s /s p e e c h e s /di git a l - b a dge s - l e a rning V room , V . (196 4\ W or k and motivation . Ne w  Y o r k, NY : Wile y . W il ls ,  C . (200 9\ Boy  Sc outs o f Ame rica:  A c e nt e nnial  hist ory . Ne w  Y ork,  NY :  D K P ubli s hing Za laz ni c k,  M . (201 5\ Digit al badges hit  the big ti me  in hi ghe r e d:  M icro - c re de nti al pro grams  target prof e ssi onals  ne e ding a s k il ls boo st .  R e tri e v e d f rom htt p s :/ /w ww . univ e rs it y bu s in e ss . c om /a rtic le /d igi t a l - b a dge s - hit - big - ti m e - highe r - ed Za laz ni c k,  M . (201 6\ ll e ni a l d e m a nd dr i v e s  hig he r e d b a dging e x pa n s io n. R e tri e v e d f rom htt p s :/ /w ww . univ e rs it y bu s in e ss . c om /a rtic le /m il le n nia l - de m a nd - driv e s - highe r - ed - ba dging - e x pa nsio n
+**Gamifying Education: Motivation and the Implementation of Digital Badges  ** **for use in Higher Education **
+
+As early as the Revolutionary War, soldiers were provided with emblems or "badges" for
+
+their bravery and good conduct (McAfee, 2015). Even today, the military continues to wear
+
+crests on their uniforms symbolizing vigilance and valor. Badges are also used to certify
+
+knowledge and learning (Halavais, 2012). In fact, the first Boy Scout badges, made of cloth with
+
+an embroidered design, were produced in 1911 to signify evidence of proficiency or merit in a
+
+particular area like agriculture (Wills, 2009). Today, there are over a hundred badges in various
+
+areas and skill levels. These visual representations of credentials are symbolic and highlight the
+
+qualifications and characteristics of those wearing them.
+
+During the first half of the twentieth century, the use of rewards became evident in the
+
+field of education. Based upon operant learning theory, the use of rewards such as candy,
+
+stickers, badges, and grades have been used to extrinsically motivate students. The premise was
+
+to promote a desired behavior. And, according to behaviorist B. F. Skinner (1950), the use of
+
+rewards strengthens a student's behavior, especially if the individual finds merit in the incentive system.
+
+Scholars have suggested that rewards may also motivate individuals to pursue more
+
+challenging tasks. For example, online gaming is growing at a rapid pace. Participants earn
+
+rewards such as badges, points, and achievements for accomplishing a particular level in the
+
+game. Begy and Consalvo (2011) stated that "games are designed to continually reinforce the
+
+player's position in the fictional world" (para. 2). Tom Chatfield (2010) noted that "games are
+
+brilliant at this... every time you do something, you get credit; you get a credit for trying" (para.
+
+8). Also, Kapp (2012), noted that these rewards provide social capital and bragging rights.
+
+Additionally, Suh, Wagner, and Liu (2016) reported that gamification enhanced user psychological needs satisfaction.
+
+Recently, components from gaming are being implemented into education in the form of
+
+digital badges (Foster, 2013). Originally static graphical images, today's digital badges are "web-
+
+enabled tokens of accomplishment that contain specific claims and evidence about learning and
+
+achievement along with detailed evidence supporting those claims" (O'Byrne, Schenke, Willis,
+
+& Hickey, 2015, p. 451). Furthermore, the practice of creating, rewarding, and sharing digital
+
+badges has emerged as a means to motivate and reward student learning. Digital badges may
+
+identify "anytime, anywhere learning" as students acquire credentials that actually measure
+
+skills, competencies, and achievements obtained in the classroom, workforce, and community
+
+# (USDE, 2011). **Related Literature **
+
+The MacArthur Foundation (2017) defined a digital badge as "an assessment and
+
+credentialing mechanism that is housed and managed online. Badges are designed to make
+
+visible and validate learning in both formal and informal settings, and hold the potential to help
+
+transform where and how learning is valued" (para. 1). Simply stated, a digital badge is a reward
+
+but also a visual symbol of ones' credentials (Otto & Hickey, 2014). According to Delello and
+
+McWhorter (2015), a digital badge is comprised of micro-credentials including the purpose of
+
+the badge, the date the badge was awarded, who issued the badge, and who earned the badge.
+
+Digital badges are verifiable, stackable, and portable for sharing across social media sites
+
+(Mozilla, 2016). In addition, the ability to display digital badges may "induce competition among
+
+badge earners" (Schenke, Tran, & Hickey, 2013, para. 8).
+
+According to Twarnoite (2015), 75% of the Millennial Generation (defined as adults 18-
+
+34. will be part of the global workforce by 2025. A recent study by the University Professional
+
+and Continuing Education Association (UPCEA, 2017) indicated that millennials valued
+
+alternative credentialing in the form of certificates and digital badges. Similarly, Zalaznick
+
+(2016) noted that in higher education, it is the millennial generation driving the badging system
+
+in order to earn microcredentials for the workforce. **The Use of Badges across Education **
+
+The use of digital badges remained largely untapped until 2011 when Mozilla and The
+
+MacArthur Foundation joined forces to explore the digital badge movement. The organizations
+
+sponsored a two million dollar competition for the creation and assessment of digital badges
+
+(MacArthur Foundation, 2011). Various leaders across the United States participated in the
+
+initiative. For example, at the launch of the competition, Secretary Arne Duncan of the U.S.
+
+Department of Education stated, "Badges can help engage students in learning, and broaden the
+
+avenues for learners of all ages to acquire and demonstrate - as well as document and display - their skills" (USDE, 2011, para. 12)..
+
+In 2012, the Harvard Review reported that digital badges were one of four innovative
+
+trends to watch in 2013 (Schrage, 2012). The report suggested that the system we currently use
+
+of accreditation may favor badges over traditional grades and digital diplomas to show skills
+
+acquisition and course completion. Even the non-profit Kahn Academy, which is well-known for
+
+its free content based instructional micro-lectures, integrated a system of points and badges into
+
+its learning resource system. From meteorite (see Figure 1) to moon badges, students earn badges
+
+for completing challenges, obtaining, points, watching videos, answering questions, or even donating to Kahn (Kahn Academy, 2015).
+
+*Figure 1. Kahn Academy Earth Badge. (© 2017, Kahn Academy. Used with permission.).* *  *
+
+One of the leading learning management systems (LMS), Blackboard has also taken a
+
+key role in the production and disbursement of digital badges. A recent Blackboard blog stated,
+
+"Digital badging has risen as a "common currency" that transcends multiple learning venues...
+
+such as MOOCs, professional development courses and workplace training and allows students
+
+to display their mastery in skills no matter where they were acquired" (Blot, 2014, para. 4; see also Hughes & Dobbins, 2015). **Educational Examples  **
+
+Digital badge research began around 2010; however, the use of badges is in a relative
+
+state of infancy compared to other teaching techniques (Gibson, Ostashewski, Flintoff, Grant, &
+
+Knight, 2015). In fact, only one in five institutions of higher education are using digital badges
+
+as a means of alternative credentialing (Fong, Janzow, & Peck, 2016).
+
+Research on digital badges has shown mixed results. For example, Reid, Paster, and
+
+Abramovich (2015) reported that students had a generally positive view of badges in English
+
+courses but the badges did not necessarily enhance motivation. In another study of 100 nursing
+
+students, the majority of students reported being motivated by digital badges; yet, the qualitative
+
+perceptions of digital badges were mixed and ranged from neutral to positive (Foli, Karagory, &
+
+Kirby, 2016). Henry Jenkins (2012), Professor at the University of Southern California noted that
+
+badges run the risk of contributing to the "gamification" of education. Jenkins is concerned that
+
+badges might become just another system of points. Additional research has shown that some
+
+students want to accumulate badges rather than associate learning to them (Resnick, 2012).
+
+Abramovich (2013) found that although digital badges improved student interest, they had little
+
+effect upon overall competency. Additionally, some scholars noted that such rewards are only
+
+effective in the short term and positive effects such as engagement and motivation may decrease
+
+over time (Deci, Koestner & Ryan, 2001). Denny (2013) suggested that there is little evidence to
+
+support the use of badges to motivate or engage learners.
+
+**Badge Credentials in the Workforce and Community **
+
+As the open badge movement continues to rise, digital badges may help bridge the gap
+
+between the classroom and the workplace. For example, in September of 2014, the National
+
+Occupational Competency Testing Institute (NOCTI), the largest provider of industry and
+
+partner-based certifications for career and technical education (CTE) programs across the nation,
+
+launched the College Credit Recommendation SkillBadge. Students who score at least a 70% on
+
+a benchmark approved for college credit by the National College Credit Recommendation
+
+Service (NCCRS) earn the SkillBadge (NOCTI, 2015). As employers seek applicants with
+
+specific skills and competencies, digital badges may provide an alternative or enhancement to the
+
+traditional resume, "By leveraging interest-driven learning and recognizing skills and
+
+competencies wherever they are acquired, badges can illuminate unique and personalized
+
+pathways to job, career and civic success" (Reconnect Learning, 2014, para. 1).
+
+Badges are also finding their way into community organizations. For example, informal
+
+learning spaces like the Dallas Museum of Art (DMA) have incorporated the use of digital
+
+badges into a loyalty program to motivate their visitors to become more engaged with the
+
+exhibits (See Figure 2). In turn, the badges earned can be redeemed for rewards at the museum;
+
+thus, "By creating mutually reinforcing systems and platforms that incentivize engagement,
+
+museums can begin to build real datasets of participation to study and learn from" (Stein & Wyman, 2013, para. 52).
+
+*Figure 2. DMA Digital Badge* * * *(© 2014, DMA. Used with permission.). *
+
+According to Schenke (2013), "A systematic study of the motivational impacts of
+
+badging has yet to be conducted" (para. 1).  Abramovich (2013) suggested that more work is
+
+needed to understand the motivation factor of badges across all levels of education and varied
+
+learning environments. The purpose of this study was to examine the use of digital badges in
+
+higher education across four interdisciplinary areas: education, engineering, human resource development, and nursing. **Conceptual Framework **
+
+The conceptual framework guiding the research on using digital badges was based on
+
+Vroom's (1964) expectancy theory. Expectancy theory is woven with underpinnings of
+
+behavioral psychology based upon incentives and rewards. Expectancy theory has three main
+
+components.   1. *Expectancy*: One believes their effort will result in meeting a goal; 2)
+
+*Instrumentality*: Meeting the goal will result in a reward; and 3) *Valence*: The value of the
+
+reward is attractive to the individual. This model is based upon human motivational theories and
+
+suggests that human motivation is influenced by a particular outcome and the interest a person
+
+has in that outcome (Redmond, 2010). For example, in academics, the instructor would present a
+
+challenging assignment to the student, then the student will put forth the effort to meet the
+
+performance goal if they feel the outcome or reward is worth it (Hancock, 1995). **Methodology **
+
+In 2015, as part of a digital badge pilot program, faculty members integrated digital
+
+badges into their curriculum.  Faculty, from four disciplines (education, engineering, human
+
+resource development, and nursing) at a regional university in the Southwestern United States,
+
+used the university learning management system (LMS) Blackboard to create digital badges
+
+through online achievements. The LMS provided an initial set of badges (see Figure 3) which
+
+were set up to automatically deploy to students when key learning milestones were met.
+
+However, instructors could create and upload additional badges to the LMS for distribution.
+
+*Figure 3. Example of Blackboard Digital Badges (© 2016, Blackboard. Used with permission.). *
+
+Furthermore, each badge contained information about the requirements for the credential, the
+
+badge distribution date, and the name of the issuer. The students were able to share their awards
+
+across social media sites to their peers, friends, and even potential employers. **Research Design **
+
+This multi-case study incorporated an exploratory mixed-methods design. A mixed
+
+methods study involves the collection and analysis of quantitative and qualitative data in a single
+
+study where the data are integrated in the process of the research (Creswell, 1994; Johnson &
+
+Onwuegbuzie, 2004). In this mixed-methods study, the quantitative data included demographics,
+
+and the qualitative research explored the students' experiences. To accomplish the purpose of the
+
+study, answers were sought to the following research questions:
+
+1. To what extent do digital badges motivate students?
+
+2. What are the perceptions of students of digital badges for use in higher education? **Instrumentation **
+
+Data was gathered in the form of a pre and post-survey in order to examine the
+
+perceptions of students receiving a digital badge in the LMS Blackboard. The pre-survey
+
+captured student demographic information such as gender and ethnicity. The survey also asked
+
+students the generation they were born in, their school classification, if they played computer
+
+games, and whether they had seen a digital badge before. Additionally, using a Likert Scale of 1-
+
+5, with 1 being least important and 5 being most important, students rated the importance of
+
+making good grades, learning the course content, or being rewarded with tangible items (see
+
+Table 1). Of those students that recognized the badging concept, they indicated that locations
+
+where they have seen a digital badge included: social media such as Twitter and mobile
+
+applications (Swarm, Four Square, Viber, Lose It), an online multi-player game platform (Steam), and in another course.
+
+Table 1. Demographic and Descriptive Data of Participants by Discipline (Cases 1-4) Pre-Survey
+
+|  | African- |
+|:--- |:--- |
+|  | American |
+
+|  | Asian |
+|:--- |:--- |
+|  | Caucasian |
+|  | Hispanic |
+|  | Other |
+| Gender |  |
+|  | Female |
+|  | Male |
+|  | Other | Baby Boomers (1946-1964) Generation X (1965-1981) Millennials/Generation Y (1982-1999)
+
+|  | Freshmen/Sophomore |
+|:--- |:--- |
+|  | Junior/Senior |
+|  | Graduate |
+| Motivation (Mean) |  |
+|  | Grades |
+
+|  | Learning Course Content |
+|:--- |:--- |
+| 4.83 |  |
+| 4.64 |  |
+| \* |  |
+| 4.62 |  |
+|  | Tangible Items |
+| 1.83 |  |
+| 1.80 |  |
+| \* |  |
+| 1.82 |  |
+| Knowledge of Digital Badge |  |
+|  | Prior Knowledge |
+|  | No Prior Knowledge |
+| Computer Gaming |  |
+|  | Played Games |
+|  | Did Not Play Games |
+
+The post-survey contained four demographic questions, three Likert-Scale questions
+
+designed to look at the extent of student motivation after receiving a digital badge, and three
+
+open-ended questions to uncover how the badge motivated students and the impact they had in
+
+the classroom.  Likert scales were all based upon 5-points ranging from (1) "not" to (5)
+
+"extremely". The research was approved by the University Institutional Review Board (IRB) prior to data collection. **Analysis of the Data **
+
+Data from each case was coded and analyzed independently. The quantitative data from
+
+the Likert scales were evaluated using Analysis of Variance (ANOVA) tests to explore
+
+differences in motivation among the four disciplines. Analysis of the qualitative data focused on
+
+analyzing patterns across the open-ended questionnaire items. According to Stake (2006), there
+
+are three main criteria for examining cases: relevance of each case, diversity of each case, and
+
+choosing cases that provide the opportunity to learn both "complexity and contexts" (p. 23). In
+
+this study, a multiple-case analysis was performed using data across all four cases to look for
+
+both similarities and differences. Combined analysis results are discussed below in the cross-case
+
+findings corresponding to the two primary research questions in the study. **Data Collection: Cases of the Study **
+
+The data for this exploratory study was collected from the following four disciplines: Education,
+
+Engineering, Human Resource Development (HRD), and Nursing. The context and post-test results for each case is described next. **Case Study One: Education **
+
+An exploratory case study was conducted in an undergraduate course in classroom
+
+management within the College of Education and Psychology. Thirty-five female students were
+
+told they would receive a digital badge for obtaining at least ten points on each of the seven
+
+sections of an online classroom management portfolio. Each section was comprised of a written paper and three supporting artifacts. **Post-Survey **
+
+Twenty one (60%) of the students completed the follow-up post-survey. All of the
+
+students reported receiving at least one digital badge in their course. Using a Likert Scale,
+
+students were asked whether receiving a digital badge in their course motivated them. Students
+
+(n=19) reported an average of 3.16 (SD=1.21). When asked why they were motivated to receive
+
+a badge, students responded with comments such as: "\[It\] visually stimulated my motivation to
+
+do well", and "I liked seeing it when I would log in or as a notification on my phone".
+
+When students were asked how motivated they were to work and receive other badges,
+
+they reported an average of 3.22 (SD=1.17). One student noted, "It wasn't like I was just being
+
+graded and moving along, the instructor actually took the time to go in and give that badge to
+
+me".  And, when students were asked to what extent did getting a badge motivate you to work
+
+harder, the average was a 3.17 (SD=1.20). One student remarked, "It made me feel like my work
+
+was really good and that all the hard work was being appreciated". Another student noted, "They
+
+showed me that I was doing a good job and made me want to continue to do well". When
+
+students were asked "Do you believe that digital badge systems can have a positive impact on
+
+students?" 17 reported yes and 3 reported no. For the 15% of students who noted badges did not
+
+motivate them, the emphasis was on the receiving a good grade in the course as illustrated in the
+
+following two excerpts: "The college degree is the motivator" and "The badges did not
+
+necessarily motivate me to work harder; they were just like the little cherry on top for receiving a good grade." **Case Study Two: Engineering **
+
+Twenty-nine undergraduate students (junior and senior level) enrolled in a required
+
+Engineering Hydrology and Hydraulic Structures course participated in this study. The course,
+
+which was offered through the Department of Civil & Environmental Engineering, consisted of
+
+two 55 minute lectures and one 2 hour, 45 minute laboratory per week.
+
+Students received digital badges for attending laboratory classes on different topics. Each
+
+instructor made badge (see Figure 4) was worth 20 points (or one percent) towards the student's
+
+final grade; there were a total of 10 badges that could be earned. And, full credit was awarded for
+
+attending the lab, participating and following all of the safety regulations of the lab. The badges
+
+were awarded through Blackboard and placed in a folder so the students could see how many
+
+badges they earned and the attendance points were uploaded to the online gradebook.
+
+*Figure 4. Example of an Instructor Made Badge  * **Post-Survey **
+
+Eleven students (10 male, 1 female) completed the post-survey.  All of the students
+
+reported having received at least one digital badge in this course.  Using a Likert Scale of 1-5,
+
+the students were asked "how motivated were you by receiving a digital badge in your course"
+
+and the students reported an average of 3.31 (SD=1.13).  The same scores were reported when
+
+students were asked to "what extent were you motivated to work and receive other badges".
+
+When asked "did getting a badge motivate you to work harder", the students reported an average
+
+of 3.00 (SD=1.07) (see Table 1).  In fact, one student remarked that digital badges, "showed me
+
+that I could, with enough effort that I could receive an A". When students were asked "Do you
+
+believe that digital badge systems can have a positive impact on students?" 6 reported yes and 5
+
+reported no.  One student stated, "It doesn't help you in a class".
+
+In general the engineering students were neutral as to whether or not digital badges
+
+motivated students.  Based on the open-ended comments, the students felt that if the badges
+
+helped your grade/GPA, badges would be useful.  In this course, badges were not given for
+
+additional work in the class (e.g. extra credit) but a visual reminder of the importance of
+
+laboratory attendance.  The badges may have had more meaning to students if the badges were directly tied to the grade.
+
+**Case Study Three: Human Resource and Development **
+
+An online graduate business course focused on workforce and talent development.
+
+During the semester course, the graduate student participants utilized multiple learning
+
+techniques to explore the use of digital badges as an alternative credentialing method in
+
+organizations. First, the graduate students who completed the study (N=20) were required to read
+
+four resources about digital badges and alternative credentials published online (Educause, 2012, 2013; Fleming, 2015; Parker, 2015).
+
+In addition, the instructor offered the graduate students an opportunity to earn digital
+
+badges in their course management system (Blackboard) conditional on their earning a grade of
+
+at least 90% on targeted assignments by a specific due date. Further, the students were asked to
+
+offer a professional context for using a digital badge and describe that information in a semester
+
+research paper on digital badges as an alternative credential technique in the workplace.  The
+
+students were directed to create a sample digital badge for their developed context and then
+
+embed the digital badge within their research paper as a figure, describing the context as well as
+
+including at least six sources with a minimum of at least three sources being peer-reviewed
+
+journal articles. One example of a student paper on digital badges explored the notion that a
+
+digital badge might be utilized to reward employees who successfully complete a number of
+
+specified leadership courses online and within training sponsored by their organization. By doing
+
+so, the student remarked that an organization benefits when it "develops future leaders within the
+
+organization... \[that\] adds value to their current talent pool".  The badge is a visual recognition
+
+for those employees who pursue leadership development which in turn adds value to the organization where they work (Figure 4). *Figure 4. Example of a Digital Badge  * **Post-Survey  **
+
+For the final task of the course, the graduate students were also administered a post-
+
+survey. Results from the survey reflected that students were moderately motivated to receive a
+
+digital badge in the course (on a scale of 1-5, the average score was 3.85; SD=.99). When asked
+
+why they were motivated to receive a badge, descriptive comments from students included
+
+responses such as: "It gave me an incentive to push forward", "After receiving my first badge, I
+
+realized that by getting my assignments in on time, I was being rewarded...like a sticker for well
+
+done"; and, "It felt good, I laughed though it may look like something for children, but I realized
+
+it had effect on me to work harder. It is like a kind of kudos, or a pat on the back".  Thus, the
+
+majority of the graduate students reported that they felt positive toward earning a digital badge
+
+themselves in a graduate course. In addition, when asked if they felt that digital badge systems
+
+can have a positive impact on students, 95% (18 of 19 students) answered yes (See Figure 5).
+
+*Figure 5. Data based on a Post-Experience Survey on Digital Badges  *
+
+When asked why (or why not) digital badge systems can have a positive impact on students,
+
+participant remarks included, "Helps show achievement and skills earned", "Could definitely
+
+encourage", and "a form of recognition and motivation".  No negative comments were given by
+
+the participants in response to this question.  The researcher concluded from this pilot study in a
+
+graduate business course that digital badge systems have the potential to motivate graduate
+
+students in online courses as well as the potential to motivate employees in organizations. **Case Study Four: Nursing **
+
+Nursing students enrolled in three required nursing courses (Community Health Nursing,
+
+Health Assessment, Education Roles and Practicum) participated in this study.  Community
+
+Nursing, a hybrid undergraduate course, met online and face to face one day a week on
+
+alternating weeks.  Badges were awarded for a grade of 90 or higher on two quizzes
+
+administered during the course. Students received a badge if they met the requirements, but they
+
+were not informed they would receive the badges before completing the two assessments.
+
+Health Assessment was a web-based lecture course with a weekly three-hour laboratory
+
+for undergraduate students. Badges were awarded for completing course forms and for
+
+completing three online modules by the due date. The Education Roles and Practicum was an
+
+online, graduate course where digital badges were awarded for completing preceptor information
+
+in a timely manner.  Badges were awarded through Blackboard but students were not informed they would receive badges ahead of time. **Post-Survey **
+
+Twelve female students completed the post-survey (two graduate students and 10
+
+undergraduate students). When asked if the student received a digital badge in a course, three
+
+said yes and nine said no, demonstrating a lack of awareness of the badge. On a scale of 1-5
+
+(with 1 being not motivated to five being extremely motivated), three students answered with a
+
+mean motivation level of 4. The same result occurred for the question "To what extent were you motivated to work and receive other badges?"
+
+Based on the low and incomplete response rate, nursing students do not appear to be
+
+motivated by a badge alone. This may be for a variety of reasons, but it may relate to the
+
+perceived limited use of badges in Nursing work settings. If badges were seen as something that
+
+students could utilize for career developing such as adding to their resume, an ePortfolio, and
+
+help them get a job, perhaps they would be more motivated to receive a badge. **Cross-Case Findings **
+
+To answer the two research questions in this study, we looked across the data and
+
+analyses from the four cases for shared patterns and characteristics. Across the cases, 94% of the
+
+students taking the pre-survey reported having never seen a digital badge before.
+
+Descriptive statistics were used to answer research question one: *To what extent do *
+
+*digital badges motivate students? * Table 2 shows the difference in mean and standard deviation
+
+for each subject area per motivation area. As noted above, measures in motivation are value
+
+ranges from 1 to 5 on a Likert Scale (with one representing low to five representing high). ** **
+
+**Table 2. Differences in motivation by group ** **Motivation** **Education **
+
+# (N = 21) **Engineering **
+
+# (N = 29)
+
+# HRD
+
+# (N = 28) **Nursing **
+
+# (N=12) 6. Did you receive a digital in  the course? 3.16 (1.21) 3.13 (1.13) 3.85 (.99) 4 (1) 7. To what extent were you motivated to work and receive other badges? 3.22 (1.17) 3.13 (1.13) 3.50 (1.16) 4 (1)
+
+8. To what extent did getting a  badge motivate you to work harder 3.17 (1.20) 3.00 (1.07) 3.62 (1.26) 4 (1)
+
+An Analysis of Variance (ANOVA) was conducted on paired and grouped data sets.  The
+
+confidence interval was set to 95% (alpha = 0.05).  Each of the four disciplines (engineering,
+
+education, nursing, and HRD) were compared to each other.  There was no statistical difference
+
+found between the student perceptions in any of the four disciplines for questions 6, 7 and 8.
+
+However, there were statistically different student perceptions about digital badges for Question
+
+10: * Do you believe that digital badge systems can have a positive impact on students?* Nursing
+
+and Engineering majors seemed less convinced that digital badges could have a positive impact
+
+on student learning. To further test this hypothesis, the data was grouped into applied majors
+
+(Engineering and Nursing) and non-applied majors (Education and HRD) and a statistical
+
+difference was found for the aforementioned question.
+
+Data was grouped into male and female students for all four disciplines.  As previously
+
+found, there was no difference for Questions 6, 7 and 8, but there was a difference in Q10 ( *Do *
+
+*you believe that digital badge systems can have a positive impact on students?* ).  Male students
+
+were more likely to comment that they did not believe digital badges could have a positive impact on students.
+
+** ** **Table 2. Summary of ANOVA results for Q10 ** ** **
+
+Education HRD Nursing Non-applied Male Engineering 0.007 0.007 0.746
+
+Education 1.0 0.032 HRD 0.032 Applied 0.00036 Female 0.011 **RQ2. What were the perceptions of students of digital badges for use in higher education? **
+
+Analysis of the qualitative data focused on analyzing patterns across the three open-ended
+
+questionnaire items. In regards to Research Question 2: *What were the perceptions of students of *
+
+*digital badges for use in higher education?, * five * * broad themes emerged: Acknowledgment,
+
+Internal Motivation, External Motivation, Competition, and Accountability (See Table 3).
+
+Across all four disciplines, students noted that badges were an acknowledgement of the
+
+work they had done. Education, Engineering, and HRD students noted that digital badges were
+
+externally motivating. However, several of the students indicated that the grade was more
+
+motivating than the badge. For example, an Education student remarked, "They didn't really
+
+motivate me honestly; I just wanted a good grade".  Neither Engineering nor Nursing students
+
+conveyed that badges were internally motivating to them. Furthermore, both Education and HRD
+
+students reported that badges were somewhat of a competition amongst the students. Finally, it
+
+should be noted that both Engineering and HRD students stated that badges helped to keep them accountable. **Table 3. Perceptions of Digital Badges ** **Themes ** **Case One ** **Education ** **Case Two ** **Engineering **
+
+**Case Three ** **Human Resource ** **Development ** ** ** **Case Four ** **Nursing **
+
+**Acknowledgment ** It is recognition of our work. It's like a reward for doing work.
+
+Badges are a form of recognition and motivation It is a nice reward for a completed job. **Internal ** **Motivation ** ** ** It makes the student happy that
+
+It felt good, I laughed though it may look like
+
+they did a good job. It just made me feel good so I think it does the same to others also.
+
+something for children, I realized it helped me to work harder. Gave me incentive to push forward **External ** **Motivation **
+
+The badges are along the lines of check marks or grades and most students want to please the teacher. Even though it's a small thing, like getting a sticker in elementary school, it does give you a little extra pride in your work. Some students may need the badges as an incentive to work hard.
+
+If you keep receiving good grade it's like an incentive to keep up the hard work and get an A in the class If each badge counts for points towards a test or a final grade it will inspire the students to do whatever it takes to get a badge.
+
+I wanted to make sure I edited my papers better and researched more. It was an award and I wanted one. After receiving my first badge, I realized by getting my assignments in on time, I was being rewarded. I was motivated because I was rewarded for my service learning assignment.
+
+**Competition ** It is almost like a contest to see who can get the most badges.
+
+It made me feel like I stood out more by having digital badges
+
+**Accountability ** Helps keep track of grades. Because it keeps you up to date on how you're doing. Helps to show achievement and skills learned. **Discussion and Conclusion **
+
+In this research study, we explored the perceptions of 90 students across four disciplines.
+
+There were differences between the student sets with the applied major students seeming to be
+
+less interested in badges as a motivational tool than the non-applied majors. For example, when
+
+students were asked " *Do you believe that digital badge systems can have a positive impact on *
+
+*students*?" 90% of Education students and 90% of HRD students responded yes, while only 55%
+
+of Engineering students and 62% of Nursing students responded yes. According to Fanfarelli and
+
+McDaniel (2015), individual differences among students can affect the way that receiving badges
+
+is perceived.  Our results suggest that groups of students show differences in their opinions
+
+toward the use of badges in education. For example, students with applied majors tended to be
+
+less compelled by the utility of badges while those in non-applied majors viewed them more
+
+favorably. These results show that, while digital badges may be worthwhile in some disciplines,
+
+they may not be worthwhile in others. We also found evidence for differences in the ways that
+
+students responded to badges as a function of gender. Taken together, there is evidence that
+
+previous studies finding mixed evidence on the utility of the badges may be due in part to
+
+unexplored group differences within the sample. Students in all four disciplines favored the use
+
+of digital badges whether or not the students thought that they were motivational. Research
+
+(UPCEA, 2017) also indicated that millennials valued badging; however, regardless of
+
+discipline, all three generations (Baby Boomer, Generation X, Generation Y) of participants
+
+surveyed reported that tangible items like digital badges were less motivating to them than
+
+receiving good grades and learning the course content.
+
+Beyond differences in student compositions, it may be possible that these results were
+
+due to the way in which the tested courses implemented badges. Across all disciplines, faculty
+
+members used or created digital badges for use within the LMS; however, only HRD students
+
+created their own badges to display as part of their course assignment, perhaps creating more
+
+personalized learning and leading to the higher percentage of impact. Again, at least one issue
+
+with the current evaluation of the efficacy of badges in education is that there remains no
+
+standardized method of implementing them into courses. This was also seen in research by
+
+Abramovich (2013), Deci, Koestner & Ryan (2001) and Denny (2013) in which badges may
+
+have had a small influence in student interest but overall were not tied to competency of the
+
+material or motivation.  A study conducted by Fajiculay, Parikh, Wright, and Sheehan (2017)
+
+with pharmacy students supports these findings as students perceived badges to be helpful for
+
+learning course material. While the badges may not motivate the students to complete the
+
+assignments, some students did seem to appreciate the extra attention they received for
+
+completing the assignment; the assumption from the comments is that students would have
+
+completed the assignment for the grade whether or not there was an opportunity to receive a digital badge.
+
+The data revealed the need for the instructors to more clearly define and communicate the
+
+requirements for digital badges to the students. Motivation may have depended upon the quality
+
+control of these awards and as faculty learn to implement them into their courses, there may be
+
+an increase in student motivation, both externally and internally. To further assess the value of
+
+digital badges it would be necessary to expand digital badges into more classes within a single
+
+discipline or over multiple disciplines. And, increasing the exposure of students to digital badges
+
+in a single discipline would further define student perceptions. Additional research is needed to
+
+determine if digital badges motivate students more when associated with a grade or work outside
+
+classroom than as a reward for an assignment for which they already earned credit. Furthermore,
+
+the badging done in this study was not sharable across the LMS as part of an open badging system.
+
+Students want access to a digital campus (DJS Research, 2016). Digital badges are a
+
+component of e-credentials, like e-portfolios and expanded transcripts that display students'
+
+projects; and are part of a foreseeable academic movement toward enhanced digital processes
+
+(Hickey, 2017). Indeed, the future of digital badges, or alternative credentials, reaches further
+
+than the higher education classroom and some universities are promoting competency badges
+
+that could provide proof of skills needed for various jobs (Bull, 2015). If we truly advocate life-
+
+long learning, additional research should be done on how badging can move beyond participation
+
+and assignment completion to true credentials of mastery learning. **Limitations **
+
+There were several limitations to this study.  One limitation of this study is its
+
+generalizability due to the fact that the study was based on just 90 students from one four-year
+
+institution. In addition, the pre-survey cannot be associated with all of the specific students in the
+
+post-survey as the surveys were anonymous. Nor were students required to answer any of the
+
+questions which led to some variability in responses. An additional limitation in this study is that
+
+the faculty were new to badge creation and implementation. Some of the badges were awarded
+
+for meeting some criterion (performance-based), while other badges were awarded for effort
+
+(Schenke, 2013). Future research needs to be conducted to determine differences amongst
+
+graduate and undergraduate students by focusing on similar disciplines.  There were not enough
+
+graduate or undergraduate students in any one discipline to further analyze this difference. The
+
+different types of badges may have affected student motivation. And, as noted previously, some
+
+students were not aware that they could earn badges. **References **
+
+Abramovich, S. R. (2013). Are badges useful in education? It depends upon the type of badge
+
+and expertise of learner. *Educational Technology Research & Development*, *61* (2), 217- 232.
+
+Begy, J. & Consalvo, M. (2011). Achievements, motivations and rewards in faunasphere. *Game *
+
+*Studies, 11* (1). Retrieved from <http://gamestudies.org/1101/articles/begy\_consalvo>
+
+Blot, K. (2014). *Shaping the future of education as a founding member of the badge alliance.*
+
+Retrieved from <http://blog.blackboard.com/shaping-future-education-founding-member-> badge-alliance/
+
+Bull, B. (2015, September 18). Why Colleges Should Support Alternative Credentials. *Chronicle * *of Higher Education*, 12.
+
+Chatfield, T. (2010). *7 ways games reward the brain.* Retrieved from
+
+<http://www.ted.com/talks/tom\_chatfield\_7\_ways\_games\_reward\_the\_brain/transcript?lan> $$ guage=en (9:44) $$
+
+Creswell, J. W. (1994). *Research design: Qualitative and quantitative approaches.* Thousand Oaks, CA: Sage.
+
+Deci, E. L., Koestner, & Ryan, R. M. (2001). Extrinsic rewards and intrinsic motivation in
+
+education: Reconsidered once again. *Review of Educational Research, 71*, 1-27.
+
+Denny, P. (2013). *The effect of virtual achievements on student engagement*. Proceedings of the
+
+SIGCHI conference on human factors in computing systems, ACM, New York, NY, USA, pp. 763-772.
+
+DJS Research (2016). Our research finds majority of students want universities to review their
+
+digital strategies. Retrieved from <https://www.djsresearch.co.uk/content/page/about-authors>
+
+Educause Library (2012). *7 things you should know about badges.* Retrieved from
+
+<https://net.educause.edu/ir/library/pdf/ELI7085.pdf>
+
+Educause Library (2013). *Micro-credentialing*. Retrieved from
+
+<http://www.educause.edu/library/micro-credentialing>
+
+Fajiculay, Parikh, Wright, & Sheehan. (2017). Student perceptions of digital badges in a drug
+
+information and literature evaluation course. *Currents in Pharmacy Teaching and *
+
+*Learning. * <https://doi.org/10.1016/j.cptl.2017.05.013>
+
+Fanfarelli, Joseph R., & McDaniel, Rudy. (2015). Individual differences in digital badging: Do learner
+
+characteristics matter? *Journal of Educational Technology Systems,* *43* (4), 403-428.
+
+Fleming, L. (2015). Create a vibrant digital badge ecosystem. *Worlds of Learning*. Retrieved
+
+from <http://worlds-of-learning.com/2015/02/03/create-a-vibrant-badge-ecosystem/>
+
+Foli, K. J., Karagory, P., & Kirby, K. (2016). An exploratory study of undergraduate nursing
+
+students' perceptions of digital badges. *Journal of Nursing Education, 55* (11), 640-644. doi:10.3928/01484834-20161011-06
+
+Fong, J., Janzow, P., & Peck, K. (2016). *Demographic shifts in educational demand and the rise *
+
+*of alternative credentials.* Retrieved from <http://www.upcea.edu/rise-of-alt-creds>
+
+Foster, J. C. (2013). The promise of digital badges. *Techniques: Connecting Education & * *Careers*, *88* (8), 30.
+
+Gibson, D., Ostashewski, N., Flintoff, K., Grant, S., Knight, E. (2015).  Digital badges in
+
+education.  *Educational Information Technology*, 20, 403-410.  DOI 10.1007/s10639- 013-9291-7
+
+Hancock, D. R. (1995).  What teachers may do to influence student motivation: An application
+
+of expectancy theory. *The Journal of General Education*, *44* (3), 171-179.
+
+Halavais, A. M. C. (2012). A genealogy of badges: Inherited meaning and monstrous moral
+
+Hybrids. *Information, Communication, and Society, 15* (3), 354-373.
+
+Hensiek, S., DeKorver, B. K., Harwood, C. J., Fish, J., O Shea, K., & Towns, M. (2017). Digital
+
+Badges in Science: A Novel Approach to the Assessment of Student Learning. *Journal * *of* * * *College Science Teaching*, *46* (3), 28-33.
+
+Hickey, D. T. (2017, April 14). How Open E-Credentials Will Transform Higher Education. C *hronicle of Higher Education*, 13.
+
+Hughes, G., & Dobbins, C. (2015). The utilization of data analysis techniques in predicting
+
+student performance in massive open online courses (MOOCs). Research and Practice in
+
+Technology Enhanced Learning, 10(10). Retrieved from
+
+http:// telrp.springeropen.com/articles/10.1186/s41039-015-0007-z
+
+Otto, N., Hickey, D. (2014, August 14). *Design principles for digital badge systems.  *
+
+*Comparative methods for uncovering lessons in ecosystem design.* Paper presented at 1st
+
+International Workshop on Open Badges in Education. Tallinn, Estonia.
+
+Jenkins, H. (2012). *How to earn your skeptic badge.* Retrieved from
+
+<http://henryjenkins.org/2012/03/how\_to\_earn\_your\_skeptic\_badge.html>
+
+Johnson R. B., & Onwuegbuzie, A. J. (2004). Mixed methods research: A research paradigm
+
+whose time has come. *Educational Researcher, 33* (3), 14-26.
+
+Kapp, K. M. (2012). *The gamification of learning and instruction: Game-based methods and *
+
+*strategies for training and education*. New York: Pfeiffer: An Imprint of John Wiley & Sons.
+
+Kahn Academy (2015). *Badge types*. Retrieved from <https://www.khanacademy.org/badges>
+
+MacArthur Foundation (2011, September). Digital media & learning competition provides $2
+
+*million for innovations in digital badges. * Retrieved from
+
+<https://www.macfound.org/press/press-releases/digital-media-learning-competition->
+
+provides-2-million-for-innovations-in-digital-badges/
+
+MacArthur Foundation (2017). *Digital badges.* Retrieved from
+
+<https://www.macfound.org/programs/digital-badges/>
+
+McAfee, M. J. (2015). Service, war and veteran Stripes: True badges of distinction. *Military * *Images*, *33* (1), 49.
+
+Mozilla (2016). *What are open badges?* Retrieved from <https://openbadges.org/get-started/> ** ** NOCTI (2015). *Badge FAQ*. Retrieved from
+
+<http://www.nocti.org/pdf/badges/Digital%20Badge%20FAQ.pdf>
+
+O'Byrne, I., Schenke, K., Willis, J. E. & Hickey, D. T. (2015). Digital badges recognizing,
+
+assessing, and motivating learners in and out of school contexts. *Journal of Adolescent & *
+
+*Adult Literacy, 58* (6), 451-454. doi:10.1002/jaal.381
+
+Parker, H. (2015). Digital badges as effective assessment tools. *National Institute for Learning * *Outcomes Assessment.*  Retrieved from
+
+<http://www.learningoutcomeassessment.org/documents/Assessment\_in\_Practice\_Digital\_> Badges.pdf
+
+Reconnect Learning (2014). *Why badges?* Retrieved from <http://www.reconnectlearning.org/#whybadges>
+
+Redmond, B. F. (2010). *PSYCH 484: Work attitudes and job motivation*: *Expectancy theory. *
+
+Retrieved from <https://wikispaces.psu.edu/display/psych484/4.+expectancy+theory>
+
+Reid, A., Paster, D., & Abramovich, S. (2015). Digital badges in undergraduate composition
+
+courses: effects on intrinsic motivation. * Journal of Computers in Education, 2* (4), 377.
+
+Resnick, M. (2012). *Still a badge skeptic.* Retrieved from ** **
+
+<https://www.hastac.org/blogs/mres/2012/02/27/still-badge-skeptic>
+
+Schenke, K. (2013). *Design principles for motivating learning with digital badges.* Retrieved
+
+from <http://www.hastac.org/blogs/kschenke/2013/06/05/design-principles-motivating-> learning-digital-badges
+
+Schenke, K., Tran, C., & Hickey. (2013). *Design principles for motivating learning with digital * *badges*. *HASTAC*, 5 June 2013.
+
+Schrage, M. (2012). *Four innovation trends to watch in 2013*. Retrieved from
+
+<https://hbr.org/2012/12/four-innovation-trends-to-watc.html>
+
+Skinner, B. F. (1950). Are theories of learning necessary? *Psychological Review, 57*, 193-216.
+
+Stake, R. K. (2006). *Multiple case study analysis*. New York: Guilford Press.
+
+Stein, R. & Wyman, B. (2013). Nurturing engagement: How technology and business model
+
+alignment can transform visitor participation in the museum. In *Museums and the Web *
+
+*2013*, N. Proctor & R. Cherry (Eds.). Silver Spring, MD: Museums and the Web.
+
+Retrieved from <http://mw2013.museumsandtheweb.com/paper/nurturing-engagement/>
+
+Siu, A., Wagner, C., & Liu, L. (2016). Enhancing user engagement through gamification.
+
+*Journal of Computer Information Systems, 1-10. * Retrieved from
+
+<http://dx.doi.org/10.1080/08874417.2016.1229143> ** **
+
+UPCEA (2017). Changes in labor statistics signal major occupational shifts and impact to higher
+
+education credentials. Retrieved from <http://upcea.edu/changes-labor-statistics-signal->
+
+major-occupational-shifts-impact-higher-education-credentials/
+
+USDE (2011 *). Digital badges for learning*. Retrieved from
+
+<http://www.ed.gov/news/speeches/digital-badges-learning>
+
+Vroom, V. (1964). *Work and motivation*. New York, NY: Wiley.
+
+Wills, C. (2009). *Boy Scouts of America: A centennial history*. New York, NY: DK Publishing
+
+Zalaznick, M. (2015). *Digital badges hit the big time in higher ed: Micro-credential programs *
+
+*target professionals needing a skills boost*.  Retrieved from
+
+<https://www.universitybusiness.com/article/digital-badges-hit-big-time-higher-ed>
+
+Zalaznick, M. (2016). Millenial demand drives higher ed badging expansion. Retrieved from
+
+<https://www.universitybusiness.com/article/millennial-demand-drives-higher-ed-badging->
+
+expansion
