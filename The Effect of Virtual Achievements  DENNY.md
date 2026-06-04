@@ -1,0 +1,279 @@
+# The Effect of Virtual Achievements on Student Engagement
+
+## Paul Denny
+
+Department of Computer Science The University of Auckland Auckland, New Zealand paul@cs.auckland.ac.nz
+
+**ABSTRACT** Badge-based achievement systems are being used increasingly to drive user participation and engagement across a variety of platforms and contexts. Despite positive anecdotal reports, there is currently little empirical evidence to support their efﬁcacy in particular domains. With the recent rapid growth of tools for online learning, an interesting open question for educators is the extent to which badges can positively impact student participation.
+
+In this paper, we report on a large-scale ( *n \>* 1000 ) randomized, controlled experiment measuring the impact of incorporating a badge-based achievement system within an online learning tool. We discover a highly signiﬁcant positive effect on the quantity of students' contributions, without a corresponding reduction in their quality, as well as on the period of time over which students engaged with the tool. Students enjoyed being able to earn badges, and indicated a strong preference for having them available in the user interface.
+
+**Author Keywords** Badges; achievements; gamiﬁcation; PeerWise; education; online learning
+
+**ACM Classiﬁcation Keywords** H.5.2 \[Information Interfaces and Presentation\]: User Interfaces **General Terms** Human Factors; Design
+
+**INTRODUCTION** The initial emergence of virtual achievements, sometimes referred to as badges or trophies, awarded to users for completing certain tasks was primarily focused around games. The ﬁrst large-scale successful implementation of badges to online games was in 2005, when "achievements" were added to the then 3 year old Xbox Live platform \[19\]. Badges have since been widely implemented on other gaming platforms and have proven extremely successful, leading to increased
+
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for proﬁt or commercial advantage and that copies bear this notice and the full citation on the ﬁrst page. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior speciﬁc permission and/or a fee. *CHI 2013*, April 27-May 2, 2013, Paris, France. $$ Copyright 2013 ACM 978-1-4503-1899-0/13/04...$15.00. $$
+
+sales revenues and higher review scores \[13\]. The potential for this success to transfer to other domains has resulted in a proliferation of the use of badges across a variety of online systems, including question and answer forums (e.g. StackOverﬂow), social news sites (e.g. Hufﬁngton Post), locationbased social networking tools (e.g. foursquare) and numerous others. The term "gamiﬁcation" was coined \[12\] to describe the general approach of using elements typically seen in games, such as badges, in non-game applications.
+
+Despite the growing utilization of badges, there is little empirical evidence to support their effectiveness at motivating and engaging users. Intuitively, the functionality and user-base of an application are important factors in determining appropriate and effective badges, therefore systematic research is needed to explore their effects across a range of domains. Researchers continue to highlight the importance of ongoing work in this area, and explicitly call for further investigation \[15, 3\]. We answer this call by conducting a large-scale study that provides empirical evidence of the positive effect that badge-based achievements have on user participation. Given the rapid growth in the use of educational technologies, we focus speciﬁcally on examining student interactions with an online learning tool and we discuss the implications of our work for designers of similar systems.
+
+We begin by presenting the tool used in our experiment and then describing the implementation of its badge system. The PeerWise tool is a freely-available, award-winning \[1\] platform used by more than 300 institutions around the world \[25\]. Students using PeerWise create their own exam-style questions relevant to the course they are studying and share these via a central repository with other members of the class. This repository then becomes a practice resource with which students can answer and critique their peers' questions. This activity aligns with a "contributing student pedagogy" \[18, 21\], a recent pedagogical approach in which students take responsibility for creating and moderating learning resources and producing peer feedback. Such approaches are attractive to educators as students become actively involved in the learning process. However, motivating students is a key challenge facing instructors \[20\], and is of great importance for activities such as this where learning resources are studentgenerated.
+
+We conducted an experiment over a period of four weeks involving a large class of more than 1000 students using PeerWise as they would in a typical semester. Half of the students, selected at random, had access to the badge system and were
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+able to earn up to 22 distinct badges for their contributions and activity. The other half of the class did not have access to the badges in the user interface, but in all other respects were treated identically. We found the presence of the badges had a clear positive effect on both the number of questions answered and the number of distinct days that students engaged with the tool, yet had no effect on the number of questions authored by students. Students reported enjoying being able to earn badges, and indicated a strong preference for having them available in the interface.
+
+**RELATED WORK** Current research into the impact of badges in non-game applications has focused on investigating user perceptions rather than measuring the effect on participation. An early example of this work was conducted by Montola et al. \[22\] in which an achievement system was added to a location based photo sharing service. The 8 week ﬁeld trial involved 20 participants using mobile phones to take pictures and record audio clips that were automatically uploaded by an application on the phone to the * Nokia Image Space* service \[24\]. Individual achievements were awarded for uploading various numbers of photos, sound clips and * scenes* (groups of images), as well as the ﬁrst upload of each type of content.
+
+Participant interviews indicated that the achievements triggered some friendly competition, however a drawback of the application was that achievements were not visible within the mobile client. Participants did not receive explicit feedback or notiﬁcation of earned achievements on the device, and were restricted to viewing this information on the web at a later time. The authors conclude that such immediate feedback is a necessity for an effective achievement system.
+
+The authors also noted that achievements in their system appeared to have particular value in assisting users to learn about the features of the application. This is an example of the "instruction" role that badges play in many social systems, as identiﬁed by Antin and Churchill \[3\] in their review of the social psychological functions of badges in social media contexts. Badges serving this "instruction" function help new users learn about the types of activities that are possible in a system as well as those that are highly valued and embody the system's social norms.
+
+A more recent study by Fitz-Walter et al. \[15\] investigated achievements within a mobile application designed to help University students learn about their campus during the orientation phase of the semester. The application leveraged the GPS and QR-code scanning functionality of smartphones, and achievements were awarded when students physically visited certain parts of their campus and answered questions relating to University services. Several of the achievements, such as those for attending a certain number of events on campus, served the "goal setting" role as described by Antin and Churchill \[3\]. Goal setting is known to be an effective motivator, and achievements of this type set a target for users that they are challenged to meet.
+
+Almost all students reported that the achievements helped motivate them to explore their campus. The authors identi-
+
+ﬁed one ﬂaw in their system, that certain achievements could be easily earned by random guessing (such as requiring a particular ﬂoor number in a building to be entered correctly). The authors note that as non-game applications begin to make greater use of achievement systems, there is a need for further research into their design, use and effects.
+
+**ENVIRONMENT** We begin by describing the PeerWise environment and giving an overview of the badge system being investigated in our study. PeerWise is an online repository of student-generated multiple-choice questions (MCQs). MCQs consist of a question stem (the introductory text that presents the question) along with a set of (commonly up to 5) alternative answers, only one of which is correct. Creating effective MCQs, particularly designing plausible alternatives, is time-consuming and challenging and requires very good content knowledge \[29, 17\]. Despite this, MCQs are an attractive option for summative assessment in large classes due to the fact that student responses can be automatically graded.
+
+The challenge of constructing good MCQs can be an advantage if students take the role of question authors. Nicol argues that by being involved in the process of constructing their own questions, rather than simply answering instructor generated questions, students can develop self-regulating skills which are crucial for life-long learning \[23\]. In addition, research in some disciplines has shown that authoring questions is an effective learning technique. Foos \[16\] investigated the effect of student-written questions on exam performance, and randomly selected students who created questions as a study technique prior to an exam performed signiﬁcantly better than those who did not.
+
+**Figure 1.** ** ** **The main menu of the PeerWise tool, prior to the introduction** **of the badge system**
+
+**PeerWise** The PeerWise tool supports students in the question authoring process, and enables an entire student cohort to create, share and moderate a repository of their own MCQs \[9\]. When creating a question, a student must identify a topic or concept to
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+be assessed and consider possible misconceptions when designing the set of alternative answers. In addition, they need to provide an explanation for the correct answer to their question in their own words. This self-explanation step is a key part of the authoring process, and is supported by research demonstrating the beneﬁts of student self-explanation \[7, 8, 2\] and producing explanations for others \[30\].
+
+**Figure 2. A notiﬁcation is shown on the main menu when a student earns** **a new badge**
+
+The repository of MCQs developed by a class then becomes a practice resource. Students can answer as many questions as are available and can provide feedback to one another in the form of comments. Students are able to moderate the resource by assigning ratings to individual questions and voting on the most helpful comments. The higher quality questions and comments then become more visible to other students in the class.
+
+Figure 1 shows the main menu of the PeerWise interface from a student's perspective. This menu organizes all of the questions in the repository into three categories: those that have been authored by the student, those that the student has previously answered and all the remaining questions which have not yet been answered.
+
+Prior to the introduction of the badge system, PeerWise already included some game-like elements. For example, each student is shown their PeerWise "score" (visible at the top right of Figure 1), which is calculated by an algorithm that rewards students for authoring, answering and evaluating questions. Rewarding students with points for their actions may help to foster friendly competition which can be a strong motivator \[6\]. However, one criticism of scoring systems in nongame applications is that certain users may attempt "gaming" of their score by focusing on repetition of non-useful actions which yield points \[14\]. In the context of educational environments, "gaming" behavior can detract from the learning task and is associated with poor learning outcomes, yet is frequently observed \[4\]. The PeerWise scoring algorithm attempts to discourage gaming behavior by rewarding students only when * * *other* students endorse their contributions. An
+
+individual student's score does not increase based solely on their own actions, but only when other students indicate their contributions have been of value in some way. The scoring system has been present in the interface for several years.
+
+**Figure 3. Clicking the "View my badges" link shows all of the badges the** **student** ** ** **has** ** ** **been** ** ** **awarded.** ** ** **In** ** ** **this** ** ** **example,** ** ** **the** ** ** **"Author-reply"** ** ** **badge** **has not yet been earned and so the corresponding icon is not visible**
+
+**Badges in PeerWise** Implementation of the badge system in PeerWise took place independently of this study. The process began by identifying the core activities that students engage with, and then deﬁning badges for those that instructors wished to encourage. The two key activities are authoring questions and answering questions, and more than half of the badges deﬁned targeted these two activities. In addition to the number of questions answered, students should be encouraged to test their knowledge * * *frequently* as the beneﬁts, particularly with respect to long-term retention, are well known \[27\]. Several badges were therefore deﬁned to reward students for returning at regular intervals to practice answering questions and to review and reinforce what they have learned.
+
+Table 1 gives a complete list of the 22 badges made available in PeerWise along with a description of the requirements for earning each. The badges are organized into three categories: "basic", "standard" and "elite", roughly corresponding to the difﬁculty required to earn them. For example, "basic" badges are primarily designed to highlight the core functionality of the PeerWise tool and can be earned simply for discovering and using different features such as replying to a comment or submitting a rating. In this sense, they satisfy the "instruction" role as deﬁned by Antin and Churchill \[3\].
+
+Previous research highlighted the necessity of notifying users when new achievements are reached \[22\]. When a student earns a badge in PeerWise for the ﬁrst time, a notiﬁcation message appears on the main menu as illustrated in Figure 2. The notiﬁcation message includes a link to the "Badges" page which lists all of the available badges highlighting those that the student has currently earned. In this sense, the "Badges" page satisﬁes certain aspects of the "status/afﬁrmation" role
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+**Table 1.** ** ** **The 22 badges available in PeerWise.** ** ** **The rightmost column highlights those that speciﬁcally encourage student activity that is being examined** **by this research (\*=question authoring, \*\*=question answering, \*\*\*=answering questions on distinct days)**
+
+**Category** **Badge name** **Description** **Activity encouraged** Basic
+
+"Question author" For contributing your ﬁrst question to PeerWise \* "Question answerer" For answering your ﬁrst question on PeerWise \*\* "Star-crossed" For the ﬁrst time you either "agree" or "disagree" with a comment "Comment" For the ﬁrst time you write a comment about a question "Author-reply" For the ﬁrst time you write a reply to a comment written about your question "Follower" For the ﬁrst time you "follow" a question author "I'll be back" For correctly answering at least 10 questions, on each of 3 different days \*\*\* Standard
+
+"Helper" For improving the explanation of an existing question "Popular question author" For each question you contribute that is answered at least 10 times \* "Discussed question author" For each question you contribute that receives at least 2 comments \* "Commentator" For writing at least 5 comments regarding questions you answer "Critique" For either agreeing or disagreeing with at least 10 comments "Rater" For submitting ratings for at least 10 questions "Scholar" For answering at least 10 questions "correctly" (i.e. receiving a "green" tick) \*\* "Commitment" For correctly answering at least 10 questions, on each of 5 consecutive days \*\*\* Elite
+
+"Good question author" For each question you contribute that receives at least 5 "excellent" ratings \* "Insight" For writing at least 2 comments that receive an "agreement" "Conversation" For replying to at least 5 comments written about your questions "Genius" For answering at least 10 questions "correctly" in a row \*\* "Leader" For the ﬁrst time someone "follows" you as a question author \* "Einstein" For answering at least 20 questions "correctly" in a row \*\* "Obsessed" For correctly answering at least 10 questions, on each of 10 consecutive days \*\*\*
+
+as deﬁned by Antin and Churchill \[3\], as it highlights a student's personal achievements. This page also displays how many students have earned each of the badges, and the rank in class of the current student's total badge tally, providing them an indication of their relative accomplishments. An example of the "Badges" page is shown in Figure 3. Once the student has viewed this page, the notiﬁcation message disappears until any subsequent badges are earned. The "Badges" page can be viewed at any time by the student, even in the absence of a notiﬁcation message, by following the link labeled "View my badges" at the bottom of the main menu. This link is visible at the bottom of Figure 2, where it appears in the middle of the row of three icons.
+
+**METHODOLOGY** In this study, we collected data from authentic student use of the PeerWise tool in a large undergraduate course, POPLHLTH111, taught at The University of Auckland in 2012. This course introduces students to frameworks and tools for understanding and controlling the impact of disease in populations. We have two primary reasons for selecting the POPLHLTH111 course for this research. Firstly, it is a particularly large course with more than 1000 students, giving our analyses good statistical power. Secondly, PeerWise has been used in POPLHLTH111 since 2008, prior to the introduction of the badge system, and thus is a regular and expected part of the course for all students. We begin this section with a description of the requirements for students to participate with PeerWise, as determined by the course instructor. We then present our study design and research question, and describe a survey conducted towards the end of the study to investigate student perceptions of the badges and the tool.
+
+**Course requirements** The data collected for this study spans the 26-day period from 5 th March to 30 th March inclusive, corresponding to weeks 2- 5 of the 12 week semester. PeerWise was ﬁrst introduced to students in POPLHLTH111 on Monday 5 th March, and they were each asked to author at least 1 question and to answer
+
+at least 20 questions before the end of the day on Friday 30 th March. Students satisfying these requirements were awarded 1.5% credit towards their ﬁnal grade in the course. This credit was determined by the course instructor and was consistent with how PeerWise had been used in previous offerings of the POPLHLTH111 course. A mid-term test, contributing 15% to the ﬁnal grade, was held towards the end of this period on Wednesday 28 th March. Earning course credit is a very strong motivator for almost all students and accounts for much of the activity within the system. In this study, we are looking speciﬁcally for effects that can be attributed to the presence of the PeerWise badges.
+
+**Figure 4.** ** ** **Schematic timeline of course activities (5** **th** ** ** **- 30** **th** ** ** **March)**
+
+**Study design** A total of 1031 students enrolled in the POPLHLTH111 course in 2012. For the purposes of our study, each student was allocated at random to one of two groups. To ensure balanced group sizes, the allocation was performed by generating a random sequence of the integers between 1 and 1031 inclusive \[26\], and using this sequence to partition the class list into two near-equal sized groups. The ﬁrst group, labeled
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+"badges on" contained 516 students and the second group, labeled "badges off" contained 515 students.
+
+**Figure 5.** ** ** **The "View my badges" link is either hidden (i) or visible (ii) at** **the bottom of the main menu depending on whether badges are enabled** **or disabled for a given student**
+
+On the 5 th March, when all students began using PeerWise for the ﬁrst time, badges were enabled in the user interface only for students in the "badges on" group. Students in this group were able to earn badges, receive notiﬁcations for every new badge earned, and see the "View my badges" link at the bottom of the main menu (Figure 5 (ii)) which linked to the "Badges" page. Students in the "badges off" group were not able to earn badges - they did not see the "View my badges" link on the main menu (Figure 5 (i)), did not receive notiﬁcations, and were not able to view the "Badges" page. All other features of the tool and requirements for using PeerWise were identical for all students. Figure 4 shows a schematic of the ﬁrst 6 weeks of the POPLHLTH111 course during which this study was conducted.
+
+**Research question** In this study, we set out to investigate whether incorporating a badge system into PeerWise would result in a higher level of participation from students. We deﬁned three measures of participation, the ﬁrst two of which, the number of questions authored per student and the number of answers submitted per student, reﬂect the core functionality of the tool. The third measure was the number of distinct days that a student uses the tool. To encourage regular practice, as opposed to completing all required contributions in one sitting, several badges are awarded only when a student interacts with the tool on a number of different days, as well as on a number of consecutive days. The rightmost column of Table 1 highlights the badges that are most closely related to our measures of interest. In particular, there are 5 badges awarded for question authoring and 7 awarded for answering questions. Of these
+
+7 badges, 3 are awarded for answering questions on distinct days. Our speciﬁc research question is as follows:
+
+**Research question**: To what extent does the inclusion of badges (virtual achievements) within PeerWise have an impact on the number of questions a student authors, the number of questions a student answers, and the number of distinct days that a student engages with the tool?
+
+**Student perceptions** A survey was conducted online to investigate the perceptions students had regarding the learning value of the PeerWise activity and, for students in the "badges on" group, the motivational effect of the badges. The survey was available from the 26 th March, two days before the mid-term test, to the 1 st April, immediately following the conclusion of the data collection. Students in both groups were asked to rate the learning value of both authoring and answering questions on PeerWise, as well as provide gender information. In addition, students in the "badges on" group were asked to provide feedback on the extent to which the badges motivated them and indicate their prior experience with badges in the context of online games. Table 2 lists the 7 survey questions shown to students in the "badges on" group, only the ﬁrst two of which were shown to students in the "badges off" group. Responses to each question were collected on a standard 5-point Likert scale ("Strongly disagree" - "Strongly agree").
+
+**Table** ** ** **2.** ** ** **Survey** ** ** **questions** ** ** **for** ** ** **"badges** ** ** **on"** ** ** **students** ** ** **("badges** ** ** **off"** ** ** **stu-** **dents were only asked Q1 and Q2)**
+
+Q1 (on/off) Answering questions that were created ** ** **by** ** ** **my** ** ** **class** ** ** **mates** was an effective way of learning in this class (POPLHLTH111) Q2 (on/off) Creating ** ** **my** ** ** **own** questions was an effective way of learning in this class (POPLHLTH111) Q3 (on) I found being able to earn "badges" increased my ** enjoyment** of using PeerWise Q4 (on) The "badges" motivated me to participate ** more** than I would have otherwise Q5 (on) I regularly play online games where "badges" (or "achievements") are used Q6 (on) I would prefer ** not** to see "badges" in PeerWise Q7 (on) The "badges" awarded for * answering questions* motivated me to answer more questions than I would have otherwise
+
+**RESULTS** We observed an excellent rate of participation amongst students, most likely attributed to the course credit associated with the activity. Of the 516 "badges on" students and the 515 "badges off" students, only 12 and 15 respectively did not participate with PeerWise. Therefore, 504 "badges on" and 500 "badges off" students either authored or answered at least one question on PeerWise, leading to a 97% participation rate.
+
+Over the four weeks, a total of 2620 questions were authored and 95685 answers were submitted by all students. The histogram in Figure 6 shows the frequency with which students in the "badges on" group earned various numbers of badges. 80% of students earned more than half of the 22 badges that were available, with only 1 student earning all of the badges. Considering only students who were active, only 3 earned fewer than 7 of the 22 badges.
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+**Figure 6.** ** ** **The frequency with which students in the "badges on" group** **earned various numbers of badges**
+
+**The effect of the badges** Table 3 gives a summary of the number of questions and answers submitted, as well as the number of distinct days of activity, for students in each group. A student is considered to be active on a given day if they either author or answer at least one question. Totals, averages, medians and standard deviations are given, as is the percentage of all answers submitted by students in each group that were "correct". An answer is deemed to be correct if it matches the answer that the author of the question suggested was correct. This is very often, but not always, the case \[5\].
+
+**Table 3.** ** ** **Comparison of "badges on" and "badges off" activity** "badges on" "badges off" $$ (n=516) $$ $$ (n=515) $$ Totals Questions Answers Days active
+
+Averages Questions 2.54 2.54 Answers 101.9 83.6 Days active 7.01 6.21 Medians Questions Answers Days active
+
+Std. devs Questions 2.4 2.2 Answers 144.0 134.8 Days active 3.9 3.6 Answers correct (%) 69.29% 69.26%
+
+Several things are apparent in this data. Firstly, despite 5 badges being associated with question authoring, there appears to be no difference between the number of questions authored by students in the "badges on" and "badges off" groups. To the level of signiﬁcance shown in the table, both the average and median number of questions authored by students in each group is identical. Secondly, there appears to be a large difference between the number of questions answered by students in each group. The total number of questions answered by the "badges on" group over this period represents a 22% increase over the number of questions answered by the "badges off" group. This increase is also reﬂected in the
+
+average (+22%) and median (+13%) number of questions answered.
+
+To visualize * * *when* these differences occur over the period, Figure 7 plots the total number of answers submitted per day by students in each group. There appear to be two "peaks" in the chart, the most prominent of which (on 28 th March) corresponds to the day of the mid-term test. The sharp increase in activity immediately prior to the mid-term test is due to students voluntarily using the tool to practice, which is a pattern consistent with reports of the use of PeerWise in other disciplines \[10, 28\]. On 25 of the 26 days in this study, students in the "badges on" group submitted more answers than students in the "badges off" group.
+
+**Figure 7.** ** ** **The number of answers submitted per day by students in each** **group.** ** ** **On** ** ** **all** ** ** **but** ** ** **one** ** ** **day,** ** ** **"badges** ** ** **on"** ** ** **students** ** ** **submitted** ** ** **more** ** ** **an-** **swers than "badges off" students**
+
+Finally, there appears to be a difference in the number of distinct days that students in each group were active. The average number of distinct days of activity is 13% higher for the "badges on" group, however this does not translate to a difference in the median values.
+
+The data, particularly the number of answers submitted, are heavily skewed as in both groups the most active 10% of students submit approximately one third of all of the answers. For example, the 50 most active students in the "badges on" group submitted 18763 answers (35.7% of all "badges on" answers) compared to 14881 answers (34.5% of all "badges off" answers) submitted by the 50 most active students in the "badges off" group.
+
+To determine the signiﬁcance of the differences between the groups, we performed a series of Mann-Whitney tests (these are non-parametric and thus robust against skewed data). As indicated by the almost identical totals, the distribution of the number of questions authored did not differ signiﬁcantly between the two groups (Mann-Whitney U = 131374.5, Z = 0.31, non = 516, noff = 515, p = 0.7566). The distribution of the number of answers submitted per student did differ signiﬁcantly between the two groups (Mann-Whitney * U* = $$ 116386.5, Z = 3.45, non = 516, noff = 515, p < 0.001), with $$ the median number of answers submitted by the "badges on" group being 68 compared with 60 by the "badges off" group.
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+Finally, the distribution of the number of distinct days of activity differed signiﬁcantly between the two groups (Mann$$ Whitney U = 116584.5, Z = 3.41, non = 516, noff = 515, $$ *p* * * *\<* 0 *.* 001 ), with the average number of active days for the "badges on" group being 7.01 compared with 6.21 for the "badges off" group.
+
+One potential concern for the course instructors is that the increase in the number of answers submitted by students in the "badges on" group may have been offset by a corresponding reduction in their quality. For example, perhaps these students were more likely to randomly make selections when answering questions. It appears that this was not the case, as there is no signiﬁcant difference between the two groups in terms of the correctness of the answers they submitted (just over 69% of all answers submitted by students in either group were correct).
+
+This data provides evidence that the presence of the badges within the PeerWise interface caused an increase in the number of answers submitted by students without a corresponding change in the proportion that were correct. The badges also caused an increase in the number of days for which students were active, however the effect size is quite small and equates to an average of less than one day. The badges did not have any impact on the number of questions authored by students.
+
+**Figure 8.** ** ** **A histogram of the number of answers submitted by students** **in each group. The "badges on" group is represented by the shaded bars.**
+
+Figures 8 and 9 offer alternative ways of visualizing the differences between the groups. In each case, the shaded bars represent the "badges on" group. Students in the "badges off" group outnumber students in the "badges on" group when answering no more than 50 questions or being active on no more than 6 distinct days (corresponding to the ﬁrst few bars in each Figure). However, when looking at students who answered more than 50 questions or who were active on more than 6 distinct days (the bars towards the right of each Figure), "badges on" students tend to outnumber "badges off" students.
+
+**Student perceptions** The online survey, conducted at the end of the four-week period, was voluntary for students to complete. A total of 519
+
+**Figure 9.** ** ** **A histogram of the number of distinct days of activity (out of** **a possible total of 26) by students in each group.** ** ** **The "badges on" group** **is represented by the shaded bars.**
+
+students responded, representing just over 50% of all enrolled students, of which 256 were from the "badges on" group.
+
+Figure 10 summarizes all student responses to the survey. Each survey question is represented by a horizontal bar, centered at "neutral", with segments proportionate in width to the number of responses of the corresponding type. A bar that is generally positioned further to the right indicates a more positive response to the corresponding question. Note that in the Figure, the survey questions have been edited for length - the full questions can be seen in Table 2.
+
+**Figure** ** ** **10.** ** ** **Survey** ** ** **responses** ** ** **from** ** ** **"badges** ** ** **on"** ** ** **and** ** ** **"badges** ** ** **off"** ** ** **stu-** **dents**
+
+Students in both groups were positive regarding the learning value of the exercise, however there is no statistical difference between the group responses to Q1 or Q2. Students indicated that authoring their own questions was most beneﬁcial to their learning with 83% of all students in agreement and only 2.5% in disagreement with statement Q2. However, answering questions created by their classmates was also rated as valuable, with 80% in agreement and fewer than 5% in disagreement with statement Q1.
+
+Students in the "badges on" group, who responded to the survey questions regarding the badges, indicated that being able to earn them was enjoyable with more than 60% of responses in agreement and just 12.5% in disagreement with statement Q3. The vast majority of students in this group also indicated that they preferred having badges in the interface, with
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+60% disagreement and only 4% agreement to the negatively worded statement Q6.
+
+**Figure** ** ** **11.** ** ** **A** ** ** **comparison** ** ** **of** ** ** **male** ** ** **(M)** ** ** **and** ** ** **female** ** ** **(F)** ** ** **responses** ** ** **to** ** ** **the** **survey, for all "badges on" students**
+
+Of all enrolled students, 65.7% were female. The percentage of female survey respondents was 64.9% which is representative of the class as a whole (only 3 respondents did not include gender information). Responses by male students to most questions (except for Q1 and Q5) did not differ from those of female students. Figure 11 compares the responses of all "badges on" students by gender. Identical questions are paired and the question number is sufﬁxed with (M) for male responses and (F) for female responses. With regard to the learning value of authoring questions, female students were more positive than male students when responding to $$ Q1 (Mann-Whitney U = 6000, Z = 2.52, nF = 163, nM = $$ 91, * p* = 0 *.* 012 ). Male students had signiﬁcantly more experience playing online games (that include badge-based achievements) than females (Mann-Whitney U = 9338.5, Z = -3.42, nF = 163, nM = 91, p = 0.001), with 14% of male students "Strongly-agreeing" with statement Q5 compared to just 5% of female students. However, this had no impact on the reported "enjoyment" of the badges in PeerWise, as the distribution of male and female responses to Q3 did not differ signiﬁcantly.
+
+**DISCUSSION** Our data suggests that the badges had a positive motivational effect, leading to an increase in both the number of answers submitted and the number of distinct days for which students were active. However, the badges did not have an impact on the number of questions that were authored. One explanation for this is that the authoring requirements in this course were low (a single question was required per student) and most students do not typically author more questions than they are required. As a result, there is very little variability in the number of questions authored across all students in the class.
+
+This phenomenon, of students preferring to answer rather than author questions voluntarily, has been previously reported \[10\] and is likely due to the greater effort and time required to author questions. Answering questions is also
+
+a more authentic practice technique for students, which explains the large spikes in voluntary use leading up to formal examinations such as the POPLHLTH111 mid-term test. These voluntary contributions suggest that students already ﬁnd some intrinsic value in answering questions, as even in the "badges off" group more than four times the required number of answers were submitted. That the badges appear to have an impact on this activity is consistent with Rajat Paharia's observation that the "entity being gamiﬁed needs to have some intrinsic value already" \[11\].
+
+Not all students are motivated by badges to the same extent. One way to gauge a student's interest in the badges is to examine the number of times they view the "Badges" page shown in the screenshot of Figure 3. When a student earns a new badge, they are notiﬁed of this by a message that appears on the main menu. This notiﬁcation message prompts the student to view the "Badges" page, and the message disappears once the "Badges" page is viewed. If the student earns additional badges before visiting the "Badges" page, the notiﬁcation message simply changes to state how many new badges have been earned. Figure 12 plots, for every student in the "badges on" group, the number of badges they earned against the number of times they viewed the "Badges" page. While most students did not view the Badges page many times, a small number of students were clearly drawn to it, with 10 students viewing the page more than 40 times.
+
+**Figure 12. Number of badges earned (out of a total of 22) plotted against** **the** ** ** **number** ** ** **of** ** ** **times** ** ** **the** ** ** **badge** ** ** **page** ** ** **was** ** ** **viewed** ** ** **for** ** ** **each** ** ** **"badges** ** ** **on"** **student (a small random jitter has been used to separate data points)**
+
+Also evident in Figure 12 is the fact that many students viewed the "Badges" page without being notiﬁed of having earned a badge. This may indicate an interest in learning which badges are available and within reach, or simply reﬂect curiosity regarding how many other students have earned badges. The maximum number of distinct notiﬁcation messages any student can receive is equal to the number of badges they earn. In practice, a student is likely to receive fewer notiﬁcation messages than the number of badges they earn, as would be the case if they earn more than one badge prior to visiting the "Badges" page. A common example of this is when a student answers a question for the ﬁrst time and also rates the question, for which two separate badges are
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+awarded. However, even using the number of badges earned as a conservative upper bound on the number of notiﬁcations received, 43 students viewed the "Badges" page at least once without being prompted and are represented by the data points lying above the straight line. Only 49 students never visited the "Badges" page. As we know all 504 students in the "badges on" group who were active earned at least one badge, this indicates that approximately 1 in 10 students simply ignored the badges altogether.
+
+Finally, although the badges did have an effect on participation, they did not impact student perceptions of the learning value of the exercise. The two groups were equally positive on the beneﬁts of both authoring and answering questions.
+
+**Threats to validity** In this section, we consider possible threats to the validity of our results. Students in the "badges on" group were selected at random from more than 1000 students. There were no other differences between the treatment of students in each group, and so in this course the presence of the badges appears to have caused the observed increase in student participation.
+
+However, we need to be careful not to overgeneralize this result. Firstly, POPLHLTH111 is a competitive course and students are typically very focused on achieving good grades and therefore tend to participate well with class activities. The students in this experiment may not be representative of another cohort for a different class. Also, the speciﬁc badges available in PeerWise were deﬁned prior to our study and it is possible that a different set of badges may be more or less effective than the current set. The requirements that an instructor places on students may also have an impact. For example, students in POPLHLTH111 were required to author 1 and answer 20 questions for 1.5% course credit. Simply meeting these minimum requirements would have at least earned students the ﬁrst two "Basic" badges, and potentially an additional 3 badges if all questions were answered correctly.
+
+Most students enrolled in POPLHLTH111 study a common set of subjects. In the semester that this study took place, the vast majority of POPLHLTH111 students were concurrently enrolled in a ﬁrst-year Biology course for which PeerWise was also being used. At the request of the Biology instructor, the badges were enabled for all students for the duration of the course. While it was not compulsory for students to engage with PeerWise in the Biology course, around three-quarters of all students did participate voluntarily. It therefore must be noted that many students in the "badges off" group in our study would have experienced the PeerWise badges for this other course. However, we do not believe that having access to the badges for the Biology course would have greatly inﬂuenced student engagement with the POPLHLTH111 repository. Badges are awarded based on participation with a speciﬁc course and it is very clear within the interface which course is being interacted with at any one time.
+
+**Lessons learned** Although we have shown that a badge-based achievement system can have a measurable effect on student participation, our data also highlights that certain actions (such as students
+
+answering questions) are impacted signiﬁcantly, while others (such as authoring questions) are not, despite both having associated badges. As discussed, a possible explanation is that answering questions is a more familiar activity for students and one in which they immediately see value. The implication for designers of similar systems is that deﬁning badges that reward students for actions in which they already see value may have the greatest impact.
+
+Our data also shows that across each measurable action, student activity either increased or was unchanged by the presence of the badges. For example, both the number of questions authored, and the proportion of answers submitted that were correct were identical for students in both groups. Reinforced by the very positive attitudes our survey revealed, the implication is that utilizing badges in similar contexts is a low-risk proposition for educators as they do not appear to negatively affect student participation.
+
+**CONCLUSIONS AND FUTURE WORK** This paper presents the ﬁrst large-scale study providing empirical evidence of the impact of a badge-based achievement system within an online learning tool. The badges had a signiﬁcant positive effect on the number of questions answered and the number of distinct days that students were active with the tool, and did not lead to a reduction in the accuracy of student answers. In addition, students enjoyed being rewarded with badges for their contributions and indicated a strong preference for having them in the interface. Although increases did not exist across all measures of activity, such as the number of questions authored by students, no negative effects were observed. Badges therefore can act as powerful motivators in educational contexts of this kind and may be integrated with little risk into similar environments.
+
+Activity in PeerWise is currently anonymous, and so students who have earned the greatest number of badges cannot be identiﬁed by their peers. As a result, the badges currently provide personal afﬁrmation rather than status amongst peers. An interesting area for future work will be exploring what it means to publicize these achievements more openly. Allowing a student to display their badges to the rest of the class, or perhaps to a subset of friends who approve, may introduce a competitive element that further impacts engagement. Future work will also explore why earning badges encouraged students to participate in certain ways, but not in others.
+
+In general, the efﬁcacy of a badge-based achievement system depends on many factors. These include user demographics, the purpose of the tool, and the relevance of the badges for encouraging appropriate user behavior. While this work has examined the implementation of one badge system and one particular set of badges in a speciﬁc domain, more work is needed to assess the impact of badges and achievements within a range of contexts.
+
+**REFERENCES** 1. Australasian Association for Engineering Education, Award for innovation in curricula, learning and teaching, "PeerWise", 2009.
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
+
+2. Aleven, V., and Koedinger, K. An effective metacognitive strategy - learning by doing and explaining with a computer-based cognitive tutor. *Cognitive Science 26*, 2 (2002), 147-179.
+
+3. Antin, J., and Churchill, E. Badges in social media: A social psychological perspective. In * CHI 2011* *Gamiﬁcation Workshop Proceedings* (Vancouver, BC, Canada, 2011).
+
+4. Baker, R., Walonoski, J., Heffernan, N., Roll, I., Corbett, A., and Koedinger, K. Why students engage in "gaming the system" behavior in interactive learning environments. * Journal of Interactive Learning Research* *19*, 2 (April 2008), 185-224.
+
+5. Bottomley, S., and Denny, P. A participatory learning approach to biochemistry using student authored and evaluated multiple-choice questions. * Biochemistry and* *Molecular Biology Education 39*, 5 (2011), 352-361.
+
+6. Burguillo, J. C. Using game theory and competition-based learning to stimulate student motivation and performance. * Comput. Educ. 55*, 2 (Sept. 2010), 566-575.
+
+7. Chi, M., Bassok, M., Lewis, M., Reimann, P., and Glaser, R. Self-explanations: How students study and use examples in learning to solve problems. * Cognitive* *Science 13* (1989), 145-182.
+
+8. Chi, M., Leeuw, N., Chiu, M.-H., and LaVancher, C. Eliciting self-explanations improves understanding. *Cognitive Science 18* (1994), 439-477.
+
+9. Denny, P., Luxton-Reilly, A., and Hamer, J. The PeerWise system of student contributed assessment questions. In * Proceedings of the tenth conference on* *Australasian computing education - Volume 78*, ACE '08, Australian Computer Society, Inc. (Darlinghurst, Australia, Australia, 2008), 69-74.
+
+10. Denny, P., Luxton-Reilly, A., and Hamer, J. Student use of the PeerWise system. * SIGCSE Bull. 40*, 3 (June 2008), 73-77.
+
+11. Deterding, S. Gamiﬁcation: designing for motivation. *interactions 19*, 4 (July 2012), 14-17.
+
+12. Deterding, S., Khaled, R., Nacke, L., and Dixon, D. Gamiﬁcation: Toward a deﬁnition. In * CHI 2011* *Gamiﬁcation Workshop Proceedings* (Vancouver, BC, Canada, 2011).
+
+13. Electronic Entertainment Design and Research. EEDAR study shows more achievements in games leads to higher review scores, increased sales. Press release, Oct. 2007.
+
+14. Farzan, R., DiMicco, J. M., Millen, D. R., Brownholtz, B., Geyer, W., and Dugan, C. When the experiment is over: Deploying an incentive system to all the users. In *Proceedings of the Symposium on Persuasive* *Technology, In conjunction with the AISB 2008* *Convention* (2008). 15. Fitz-Walter, Z., Tjondronegoro, D., and Wyeth, P. Orientation passport: using gamiﬁcation to engage
+
+university students. In * Proceedings of the 23rd* *Australian Computer-Human Interaction Conference*, OzCHI '11, ACM (Canberra, Australia, 2011), 122-125.
+
+16. Foos, P. W. Effects of student-written questions on student test performance. * Teaching of Psychology 16*, 2 (1989), 77-78.
+
+17. Haladyna, T., and Downing, S. How many options is enough for a multiple-choice test item? * * *Educational and* *Psychological Measurement 53*, 4 (1993), 999-1010.
+
+18. Hamer, J., Cutts, Q., Jackova, J., Luxton-Reilly, A., McCartney, R., Purchase, H., Riedesel, C., Saeli, M., Sanders, K., and Sheard, J. Contributing student pedagogy. * SIGCSE Bull. 40*, 4 (Nov. 2008), 194-212.
+
+19. Jakobsson, M. The achievement machine: Understanding Xbox 360 achievements in gaming practices. * The International Journal of Computer Game* *Research 11*, 1 (2011).
+
+20. Lee, J. J., and Hammer, J. Gamiﬁcation in education: What, how, why bother? * * *Academic Exchange Quarterly* *15*, 2 (2011).
+
+21. Luxton-Reilly, A., and Denny, P. Constructive evaluation: a pedagogy of student-contributed assessment. * Computer Science Education 20*, 2 (2010), 145-167.
+
+22. Montola, M., Nummenmaa, T., Lucero, A., Boberg, M., and Korhonen, H. Applying game achievement systems to enhance user experience in a photo sharing service. In *Academic MindTrek 2009 Conference*, ACM Press (Tampere, Finland, 2009), 94-97.
+
+23. Nicol, D. E-assessment by design: using multiple-choice tests to good effect. * Journal of Further and Higher* *Education 31*, 1 (Feb. 2007), 53-64.
+
+24. Nokia. Nokia Image Space. **<http://research.nokia.com/page/4987**>, 2009. \[Online; accessed 20-March-2012\].
+
+25. PeerWise. Online learning tool (<http://peerwise.cs.auckland.ac.nz/).>
+
+26. Random.org. True random number service (<http://www.random.org/).>
+
+27. Roediger, H. L., and Karpicke, J. D. Test-enhanced learning: Taking memory tests improves long-term retention. * Psychological Science 17* (2006), 249-255.
+
+28. Sykes, A., Denny, P., and Nicolson, L. PeerWise - the marmite of veterinary student learning (Brighton Business School, University of Brighton, Brighton, UK, Nov. 2011). 820-830.
+
+29. Vyas, R., and Supe, A. Multiple choice questions: a literature review on the optimal number of options. * The* *National Medical Journal of India 21*, 3 (June 2008), 130-133.
+
+30. Webb, N. Peer interaction and learning in small groups. *International Journal of Education Research 13* (1989), 21-39.
+
+**Session: Design for Classrooms 1** **CHI 2013: Changing Perspectives, Paris, France**
